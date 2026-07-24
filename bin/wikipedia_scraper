@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require 'wikipedia_scraper'
+
+url = (!ARGV[0] || ARGV[0] == 'random') ? 'https://en.wikipedia.org/wiki/special:random' : ARGV[0]
+page = WikipediaScraper::Page.fetch(url)
+
+output_directory = ARGV.length > 1 ? ARGV[-1] : "./output" # Change the default output location
+page.save_json(output_directory)
+
+puts "Saved #{page.title} to #{output_directory} as #{page.url.split('/').last}.json"

@@ -1,0 +1,1785 @@
+{
+  "title": "Chechen language",
+  "short_description": "Northeast Caucasian language native to Russia",
+  "url": "https://en.wikipedia.org/wiki/Chechen_language",
+  "sections": [
+    {
+      "id": 0,
+      "heading": null,
+      "content": [
+        "**Chechen** (Нохчийн, *Noxçiyn*, [[ˈnɔxt͡ʃĩː]](https://en.wikipedia.org/wiki/Help:IPA))[a] is a [Northeast Caucasian language](https://en.wikipedia.org/wiki/Northeast_Caucasian_languages), spoken primarily by the [Chechen people](https://en.wikipedia.org/wiki/Chechen_people), native to the [Russian republic](https://en.wikipedia.org/wiki/Republics_of_Russia) of [Chechnya](https://en.wikipedia.org/wiki/Chechnya), as well as its neighbouring republics. With approximately 1.8 million speakers, it is also spoken by [members of the Chechen diaspora](https://en.wikipedia.org/wiki/Chechen_diaspora) throughout [Russia](https://en.wikipedia.org/wiki/Russia) and the rest of the world."
+      ]
+    },
+    {
+      "id": 1,
+      "heading": "History",
+      "content": [
+        "Before the [Russian conquest](https://en.wikipedia.org/wiki/Caucasian_War), most writings in [Chechnya](https://en.wikipedia.org/wiki/Chechnya) consisted of [Islamic](https://en.wikipedia.org/wiki/Islamic) texts and clan histories, written usually in Arabic but sometimes also in Chechen using Arabic script. The Chechen literary language was created after the [October Revolution](https://en.wikipedia.org/wiki/October_Revolution), and the [Latin script](https://en.wikipedia.org/wiki/Latin_script) began to be used instead of Arabic for Chechen writing in the mid-1920s. The [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script) was adopted in 1938. Almost the entire library of Chechen medieval writing in Arabic and Georgian script about the land of Chechnya and its people was destroyed by Soviet authorities in 1944, leaving the modern Chechens and modern historians with a destroyed and no longer existent historical treasury of writings.[7]",
+        "The Chechen diaspora in [Jordan](https://en.wikipedia.org/wiki/Jordan), [Turkey](https://en.wikipedia.org/wiki/Turkey), and [Syria](https://en.wikipedia.org/wiki/Syria) is fluent but generally not literate in Chechen except for individuals who have made efforts to learn the writing system. The Cyrillic alphabet is not generally known in these countries, and thus for Jordan and Syria, they mostly use the Arabic alphabet, while in Turkey they use the Latin alphabet."
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Classification",
+      "content": [
+        "Chechen is the most-spoken [Northeast Caucasian language](https://en.wikipedia.org/wiki/Northeast_Caucasian_languages). Together with the closely related [Ingush](https://en.wikipedia.org/wiki/Ingush_language), with which there exists a large degree of mutual intelligibility and shared vocabulary, it forms the [Vainakh branch](https://en.wikipedia.org/wiki/Vainakh_languages)."
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "Dialects",
+      "content": [
+        "There are a number of Chechen dialects: [Aukh](https://en.wikipedia.org/wiki/Aukh_dialect), Chebarloish, Malkhish, Nokhchmakhkakhoish, Orstkhoish, Sharoish, Shuotoish, Terloish, Itum-Qalish and Himoish.",
+        "Dialects of Chechen can be classified by their geographic position within the Chechen Republic. The dialects of the northern lowlands are often referred to as \"*Oharoy muott*\" (literally \"lowlander's language\") and the dialect of the southern mountain tribes is known as \"*Laamaroy muott*\" (lit. \"mountainer's language\"). *Oharoy muott* forms the basis for much of the standard and literary Chechen language, which can largely be traced to the regional dialects of Urus-Martan and contemporary [Grozny](https://en.wikipedia.org/wiki/Grozny). Laamaroy dialects include Chebarloish, Sharoish, Itum-Qalish, Kisti, and Himoish. Until recently, however, Himoy was undocumented and was considered a branch of Sharoish, as many dialects are also used as the basis of intertribal (teip) communication within a larger Chechen \"*tukkhum*\". Laamaroy dialects such as Sharoish, Himoish and Chebarloish are more conservative and retain many features from Proto-Chechen. For instance, many of these dialects lack a number of vowels found in the standard language which were a result of [long-distance assimilation](https://en.wikipedia.org/wiki/Umlaut_(linguistics)) between vowel sounds. Additionally, the Himoy dialect preserves word-final, post-tonic vowels as a schwa [ə].",
+        "Literary Chechen is based on Plains Chechen, spoken around [Grozny](https://en.wikipedia.org/wiki/Grozny) and [Urus-Martan](https://en.wikipedia.org/wiki/Urus-Martan).[8]"
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "Geographic distribution",
+      "content": [
+        "According to the [Russian Census of 2020](https://en.wikipedia.org/wiki/Russian_Census_(2020)), 1,490,000 people reported being able to speak Chechen in Russia.[1]",
+        {
+          "id": 5,
+          "heading": "Official status",
+          "content": [
+            "Chechen is an official language of [Chechnya](https://en.wikipedia.org/wiki/Chechnya).[9]"
+          ]
+        },
+        {
+          "id": 6,
+          "heading": "Jordan",
+          "content": [
+            "Chechens in [Jordan](https://en.wikipedia.org/wiki/Jordan) have good relations with the Hashemite Kingdom of Jordan and are able to practice their own culture and language. Chechen language usage is strong among the Chechen community in Jordan. Jordanian Chechens are bilingual in both Chechen and Arabic, but do not speak Arabic among themselves, only speaking Chechen to other Chechens. Some Jordanians are literate in Chechen as well, having managed to read and write to people visiting Jordan from Chechnya.[10]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "Phonology",
+      "content": [
+        "Some phonological characteristics of Chechen include its wealth of consonants and sounds similar to [Arabic](https://en.wikipedia.org/wiki/Arabic_language) and the [Salishan languages](https://en.wikipedia.org/wiki/Salishan_languages) of North America, as well as a large vowel system resembling those of [Swedish](https://en.wikipedia.org/wiki/Swedish_language) and [German](https://en.wikipedia.org/wiki/German_language).",
+        {
+          "id": 8,
+          "heading": "Consonants",
+          "content": [
+            "The Chechen language has, like most [languages of the Caucasus](https://en.wikipedia.org/wiki/Languages_of_the_Caucasus), a large number of [consonants](https://en.wikipedia.org/wiki/Consonant): about 40 to 60 (depending on the [dialect](https://en.wikipedia.org/wiki/Dialect) and the analysis), far more than most [European languages](https://en.wikipedia.org/wiki/Languages_of_Europe). Typical of the region, a four-way distinction between [voiced](https://en.wikipedia.org/wiki/Voice_(phonetics)), [voiceless](https://en.wikipedia.org/wiki/Voiceless), [ejective](https://en.wikipedia.org/wiki/Ejective) and [geminate](https://en.wikipedia.org/wiki/Geminate) [fortis](https://en.wikipedia.org/wiki/Fortis_(phonetics)) [stops](https://en.wikipedia.org/wiki/Stop_consonant) is found.[11] Furthermore, all variants except the ejective are subject to phonemic pharyngealization.",
+            [
+              [
+                null,
+                "[Labial](https://en.wikipedia.org/wiki/Labial_consonant)",
+                "[Labial](https://en.wikipedia.org/wiki/Labial_consonant)",
+                "[Alveolar](https://en.wikipedia.org/wiki/Alveolar_consonant)",
+                "[Alveolar](https://en.wikipedia.org/wiki/Alveolar_consonant)",
+                "[Postalveolar](https://en.wikipedia.org/wiki/Postalveolar_consonant)",
+                "[Postalveolar](https://en.wikipedia.org/wiki/Postalveolar_consonant)",
+                "[Velar](https://en.wikipedia.org/wiki/Velar_consonant)",
+                "[Uvular](https://en.wikipedia.org/wiki/Uvular_consonant)",
+                "[Epiglottal](https://en.wikipedia.org/wiki/Epiglottal_consonant)",
+                "[Glottal](https://en.wikipedia.org/wiki/Glottal_consonant)",
+                "[Glottal](https://en.wikipedia.org/wiki/Glottal_consonant)",
+                null,
+                null
+              ],
+              [
+                "plain",
+                "[phar.](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "plain",
+                "[phar.](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "plain",
+                "[phar.](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "plain",
+                "[Velar](https://en.wikipedia.org/wiki/Velar_consonant)",
+                "[Uvular](https://en.wikipedia.org/wiki/Uvular_consonant)",
+                "[Epiglottal](https://en.wikipedia.org/wiki/Epiglottal_consonant)",
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Nasal](https://en.wikipedia.org/wiki/Nasal_consonant)",
+                "[Nasal](https://en.wikipedia.org/wiki/Nasal_consonant)",
+                "[Nasal](https://en.wikipedia.org/wiki/Nasal_consonant)",
+                "[m](https://en.wikipedia.org/wiki/Voiced_bilabial_nasal)",
+                "[mˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[n](https://en.wikipedia.org/wiki/Voiced_alveolar_nasal)",
+                "[nˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Plosive](https://en.wikipedia.org/wiki/Plosive_consonant)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "[lenis](https://en.wikipedia.org/wiki/Lenis)",
+                "[pʰ](https://en.wikipedia.org/wiki/Aspirated_consonant)",
+                "[pˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[tʰ](https://en.wikipedia.org/wiki/Aspirated_consonant)",
+                "[tˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                "[kʰ](https://en.wikipedia.org/wiki/Aspirated_consonant)",
+                "[qʰ](https://en.wikipedia.org/wiki/Aspirated_consonant)",
+                "[ʡ](https://en.wikipedia.org/wiki/Epiglottal_plosive)",
+                "[ʔ](https://en.wikipedia.org/wiki/Glottal_stop)",
+                "([ʔˤ](https://en.wikipedia.org/wiki/Pharyngealization))"
+              ],
+              [
+                "[Plosive](https://en.wikipedia.org/wiki/Plosive_consonant)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "[pˤː](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[tː](https://en.wikipedia.org/wiki/Voiceless_alveolar_plosive)",
+                "[tˤː](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                "[kː](https://en.wikipedia.org/wiki/Voiceless_velar_plosive)",
+                "[qː](https://en.wikipedia.org/wiki/Voiceless_uvular_plosive)",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Plosive](https://en.wikipedia.org/wiki/Plosive_consonant)",
+                "[b](https://en.wikipedia.org/wiki/Voiced_bilabial_plosive)",
+                "[bˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[d](https://en.wikipedia.org/wiki/Voiced_alveolar_plosive)",
+                "[dˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                "[ɡ](https://en.wikipedia.org/wiki/Voiced_velar_plosive)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Plosive](https://en.wikipedia.org/wiki/Plosive_consonant)",
+                "[pʼ](https://en.wikipedia.org/wiki/Bilabial_ejective_stop)",
+                null,
+                "[tʼ](https://en.wikipedia.org/wiki/Alveolar_ejective_stop)",
+                null,
+                null,
+                null,
+                "[kʼ](https://en.wikipedia.org/wiki/Velar_ejective_stop)",
+                "[qʼ](https://en.wikipedia.org/wiki/Uvular_ejective_stop)",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Affricate](https://en.wikipedia.org/wiki/Affricate_consonant)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "[lenis](https://en.wikipedia.org/wiki/Lenis)",
+                null,
+                null,
+                "[tsʰ](https://en.wikipedia.org/wiki/Aspirated_consonant)",
+                "[tsˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[tʃʰ](https://en.wikipedia.org/wiki/Aspirated_consonant)",
+                "[tʃˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Affricate](https://en.wikipedia.org/wiki/Affricate_consonant)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                null,
+                "[tsː](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)",
+                "[tsˤː](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[tʃː](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)",
+                "[tʃˤː](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Affricate](https://en.wikipedia.org/wiki/Affricate_consonant)",
+                null,
+                null,
+                "[dz](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)",
+                "[dzˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[dʒ](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)",
+                "[dʒˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Affricate](https://en.wikipedia.org/wiki/Affricate_consonant)",
+                null,
+                null,
+                "[tsʼ](https://en.wikipedia.org/wiki/Alveolar_ejective_affricate)",
+                null,
+                "[tʃʼ](https://en.wikipedia.org/wiki/Postalveolar_ejective_affricate)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Fricative](https://en.wikipedia.org/wiki/Fricative_consonant)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "([f](https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative))",
+                null,
+                "[s](https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative)",
+                "[sˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[ʃ](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)",
+                "[ʃˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[x](https://en.wikipedia.org/wiki/Voiceless_velar_fricative)",
+                "[x](https://en.wikipedia.org/wiki/Voiceless_velar_fricative)",
+                null,
+                "[h](https://en.wikipedia.org/wiki/Voiceless_glottal_fricative)",
+                null
+              ],
+              [
+                "[Fricative](https://en.wikipedia.org/wiki/Fricative_consonant)",
+                "([v](https://en.wikipedia.org/wiki/Voiced_labiodental_fricative))",
+                null,
+                "[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)",
+                "[zˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[ʒ](https://en.wikipedia.org/wiki/Voiced_postalveolar_fricative)",
+                "[ʒˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[ɣ](https://en.wikipedia.org/wiki/Voiced_velar_fricative)",
+                "[ɣ](https://en.wikipedia.org/wiki/Voiced_velar_fricative)",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Rhotic](https://en.wikipedia.org/wiki/Rhotic_consonant)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                null,
+                null,
+                "[r̥](https://en.wikipedia.org/wiki/Voiceless_alveolar_trill)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                "[ʜ](https://en.wikipedia.org/wiki/Voiceless_epiglottal_trill)",
+                null,
+                null
+              ],
+              [
+                "[Rhotic](https://en.wikipedia.org/wiki/Rhotic_consonant)",
+                null,
+                null,
+                "[r](https://en.wikipedia.org/wiki/Voiced_alveolar_trill)",
+                "[rˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "[Approximant](https://en.wikipedia.org/wiki/Approximant_consonant)",
+                "[Approximant](https://en.wikipedia.org/wiki/Approximant_consonant)",
+                "[Approximant](https://en.wikipedia.org/wiki/Approximant_consonant)",
+                "[w](https://en.wikipedia.org/wiki/Voiced_labial–velar_approximant) ([ɥ](https://en.wikipedia.org/wiki/Voiced_labial–palatal_approximant))",
+                "[wˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
+                "[l](https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_approximant)",
+                "[lˤ](https://en.wikipedia.org/wiki/Pharyngealized_alveolar_lateral_approximant)",
+                "[j](https://en.wikipedia.org/wiki/Voiced_palatal_approximant)",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            ],
+            "Nearly any consonant may be [fortis](https://en.wikipedia.org/wiki/Fortis_and_lenis) because of focus gemination, but only the ones above are found in [roots](https://en.wikipedia.org/wiki/Root_(linguistics)). The consonants of the *t* cell and /[l](https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_approximant)/ are [denti-alveolar](https://en.wikipedia.org/wiki/Denti-alveolar); the others of that column are [alveolar](https://en.wikipedia.org/wiki/Alveolar_consonant). /[x](https://en.wikipedia.org/wiki/Voiceless_velar_fricative)/ is a back [velar](https://en.wikipedia.org/wiki/Velar_consonant), but not quite [uvular](https://en.wikipedia.org/wiki/Uvular_consonant). The lateral /[l](https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_approximant)/ may be [velarized](https://en.wikipedia.org/wiki/Dark_L), unless it is followed by a front vowel. The trill /[r](https://en.wikipedia.org/wiki/Voiced_alveolar_trill)/ is usually articulated with a single contact, and therefore sometimes described as a [tap](https://en.wikipedia.org/wiki/Tap_consonant) [[ɾ](https://en.wikipedia.org/wiki/Voiced_alveolar_tap_or_flap)]. Except in the literary [register](https://en.wikipedia.org/wiki/Register_(sociolinguistics)), and even then only for some speakers, the voiced [affricates](https://en.wikipedia.org/wiki/Affricate_consonant) /[dz](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)/, /[dʒ](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)/ have merged into the [fricatives](https://en.wikipedia.org/wiki/Fricative_consonant) /[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)/, /[ʒ](https://en.wikipedia.org/wiki/Voiced_postalveolar_fricative)/. A voiceless labial fricative /[f](https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative)/ is found only in European [loanwords](https://en.wikipedia.org/wiki/Loanword). /[w](https://en.wikipedia.org/wiki/Voiced_labial–velar_approximant)/ appears both in diphthongs and as a consonant; as a consonant, it has an allophone [[v](https://en.wikipedia.org/wiki/Voiced_labiodental_fricative)] before front vowels.",
+            "Approximately twenty [pharyngealized](https://en.wikipedia.org/wiki/Pharyngealization) consonants (marked with superscript [ˤ](https://en.wikipedia.org/wiki/Pharyngealization)) also appear in the table above. [Labial](https://en.wikipedia.org/wiki/Labial_consonant), [alveolar](https://en.wikipedia.org/wiki/Alveolar_consonant) and [postalveolar](https://en.wikipedia.org/wiki/Postalveolar_consonant) consonants may be pharyngealized, except for [ejectives](https://en.wikipedia.org/wiki/Ejective_consonant).",
+            "Except when following a consonant, /[ʢ](https://en.wikipedia.org/wiki/Voiced_epiglottal_trill)/ is [phonetically](https://en.wikipedia.org/wiki/Phonetics) [[ʔˤ](https://en.wikipedia.org/wiki/Pharyngealization)], and can be argued to be a [glottal stop](https://en.wikipedia.org/wiki/Glottal_stop) before a \"[pharyngealized](https://en.wikipedia.org/wiki/Pharyngealization)\" (actually epiglottalized) vowel. However, it does not have the distribution constraints characteristic of the anterior pharyngealized (epiglottalized) consonants. Although these may be analyzed as an [anterior consonant](https://en.wikipedia.org/wiki/Anterior_consonant) plus /[ʢ](https://en.wikipedia.org/wiki/Voiced_epiglottal_trill)/ (they surface for example as [dʢ] when [voiced](https://en.wikipedia.org/wiki/Voice_(phonetics)) and [[pʰʜ](https://en.wikipedia.org/wiki/Aspirated_consonant)] when [voiceless](https://en.wikipedia.org/wiki/Voiceless)), [Nichols](https://en.wikipedia.org/wiki/Johanna_Nichols) argues that given the severe constraints against [consonant clusters](https://en.wikipedia.org/wiki/Consonant_cluster) in Chechen, it is more useful to analyze them as single consonants."
+          ]
+        },
+        {
+          "id": 9,
+          "heading": "Vowels",
+          "content": [
+            "Unlike most other languages of the Caucasus, Chechen has an extensive inventory of [vowel](https://en.wikipedia.org/wiki/Vowel) sounds, putting its range higher than most languages of Europe (most vowels being the product of environmentally conditioned allophonic variation, which varies by both dialect and method of analysis). Many of the vowels are due to [umlaut](https://en.wikipedia.org/wiki/I-mutation), which is highly productive in the standard dialect. None of the spelling systems used so far have distinguished the vowels with complete accuracy.",
+            [
+              [
+                null,
+                "[Front](https://en.wikipedia.org/wiki/Front_vowel)",
+                "[Front](https://en.wikipedia.org/wiki/Front_vowel)",
+                "[Back](https://en.wikipedia.org/wiki/Back_vowel)~ [Central](https://en.wikipedia.org/wiki/Central_vowel)"
+              ],
+              [
+                "[unrounded](https://en.wikipedia.org/wiki/Unrounded_vowel)",
+                "[rounded](https://en.wikipedia.org/wiki/Rounded_vowel)",
+                null,
+                "[Back](https://en.wikipedia.org/wiki/Back_vowel)~ [Central](https://en.wikipedia.org/wiki/Central_vowel)"
+              ],
+              [
+                "[High](https://en.wikipedia.org/wiki/High_vowel)",
+                "[ɪ](https://en.wikipedia.org/wiki/Near-close_near-front_unrounded_vowel) [iː](https://en.wikipedia.org/wiki/Close_front_unrounded_vowel)",
+                "[ʏ](https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel) [yː](https://en.wikipedia.org/wiki/Close_front_rounded_vowel)",
+                "[ʊ](https://en.wikipedia.org/wiki/Near-close_near-back_rounded_vowel) [uː](https://en.wikipedia.org/wiki/Close_back_rounded_vowel)"
+              ],
+              [
+                "[Mid](https://en.wikipedia.org/wiki/Mid_vowel)",
+                "[e̞](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel) [e̞ː](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel)",
+                "[ø̞](https://en.wikipedia.org/wiki/Mid_front_rounded_vowel) [ø̞ː](https://en.wikipedia.org/wiki/Mid_front_rounded_vowel)",
+                "[o̞](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel) [o̞ː](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel)"
+              ],
+              [
+                "[Low](https://en.wikipedia.org/wiki/Low_vowel)",
+                "([æ](https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel)) ([æː](https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel))",
+                null,
+                "[ə](https://en.wikipedia.org/wiki/Mid_central_vowel) [ɑː](https://en.wikipedia.org/wiki/Open_back_unrounded_vowel)"
+              ],
+              [
+                "[Diphthong](https://en.wikipedia.org/wiki/Diphthong)",
+                "je ie̯",
+                "ɥø yø̯",
+                "wo uo̯"
+              ]
+            ],
+            "All vowels may be [nasalized](https://en.wikipedia.org/wiki/Nasalization). Nasalization is imposed by the [genitive](https://en.wikipedia.org/wiki/Genitive_case), [infinitive](https://en.wikipedia.org/wiki/Infinitive), and for some speakers the [nominative case](https://en.wikipedia.org/wiki/Nominative_case) of [adjectives](https://en.wikipedia.org/wiki/Adjective). Nasalization is not strong, but it is audible even in final vowels, which are devoiced.",
+            "Some of the [diphthongs](https://en.wikipedia.org/wiki/Diphthong) have significant [allophony](https://en.wikipedia.org/wiki/Allophone): /ɥø/ = [ɥø],[ɥe],[we]; /yø̯/ = [yø],[ye]; /uo̯/ = [woː],[uə].",
+            "In [closed syllables](https://en.wikipedia.org/wiki/Closed_syllable), [long vowels](https://en.wikipedia.org/wiki/Long_vowel) become short in most dialects (not [Kisti](https://en.wikipedia.org/wiki/Kist_people)), but are often still distinct from short vowels (shortened [i], [u], [ɔ] and [ɑ̈] vs. short [ɪ], [ʊ], [o], and [ə], for example), although which ones remain distinct depends on the dialect.",
+            "/æ/,/æː/ and /e/,/eː/ are in [complementary distribution](https://en.wikipedia.org/wiki/Complementary_distribution) (/æ/ occurs after [pharyngealized](https://en.wikipedia.org/wiki/Pharyngealization) consonants, whereas /e/ does not and /æː/—identical with /æ/ for most speakers—occurs in closed syllables, while /eː/ does not) but speakers strongly feel that they are distinct sounds.",
+            "Pharyngealization appears to be a feature of the consonants, though some analyses treat it as a feature of the vowels. However, [Nichols](https://en.wikipedia.org/wiki/Johanna_Nichols) argues that this does not capture the situation in Chechen well, whereas it is more clearly a feature of the vowel in [Ingush](https://en.wikipedia.org/wiki/Ingush_language): Chechen [tsʜaʔ] \"one\", Ingush [tsaʔˤ], which she analyzes as /tsˤaʔ/ and /tsaˤʔ/. Vowels have a delayed [murmured](https://en.wikipedia.org/wiki/Breathy_voice) onset after pharyngealized voiced consonants and a noisy [aspirated](https://en.wikipedia.org/wiki/Aspiration_(phonetics)) onset after pharyngealized voiceless consonants. The high vowels /i/,/y/,/u/ are diphthongized, [əi],[əy],[əu], whereas the diphthongs /je/,/wo/ undergo [metathesis](https://en.wikipedia.org/wiki/Metathesis_(linguistics)), [ej],[ow]."
+          ]
+        },
+        {
+          "id": 10,
+          "heading": "Phonotactics",
+          "content": [
+            "Chechen permits syllable-initial clusters /stpxtx/ and non-initially also allows /xrl/ plus any consonant, and any obstruent plus a uvular of the same [manner of articulation](https://en.wikipedia.org/wiki/Manner_of_articulation). The only cluster of three consonants permitted is /rst/.[12]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "heading": "Alphabets",
+      "content": [
+        "Numerous inscriptions in the [Georgian script](https://en.wikipedia.org/wiki/Georgian_script) are found in mountainous Chechnya, but they are not necessarily in Chechen.[clarification needed](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify) Later, the [Arabic script](https://en.wikipedia.org/wiki/Arabic_script) was introduced for Chechen, along with [Islam](https://en.wikipedia.org/wiki/Islam). The Chechen Arabic alphabet was first reformed during the reign of [Imam Shamil](https://en.wikipedia.org/wiki/Imam_Shamil), and then again in 1910, 1920 and 1922.",
+        "At the same time, the alphabet devised by [Peter von Uslar](https://en.wikipedia.org/wiki/Peter_von_Uslar), consisting of Cyrillic, Latin, and Georgian letters, was used for academic purposes. In 1911 it too was reformed but never gained popularity among the Chechens themselves.",
+        {
+          "id": 12,
+          "heading": "Cyrillic script",
+          "content": [
+            "The current official script for Chechen language is Cyrillic. This script was created and adopted in 1938, replacing the Latin script prior to it. Up until 1992, only the Cyrillic script was used for Chechen. After the collapse of the Soviet Union and the de facto secession of the [Chechen Republic of Ichkeria](https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria) from Russia, a new Latin script was devised and was used parallel to Cyrillic until the dissolution of [the separatist state](https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria).",
+            "A new set of orthography rules for the Chechen language was prepared in 2020.[13] In particular, it replaces the letters «я», «яь», «ю», and «юь» with «йа», «йаь», «йу», and «йуь», except for loanwords and proper names.[14] Thus, the letters Юь юь and Яь яь have been excluded from the Chechen alphabet.[15] The updated rules of Chechen orthography came into force on January 1, 2022.[16]",
+            "As a result, the modern Chechen alphabet has the following form:[17][15]",
+            [
+              [
+                "А а",
+                "Аь аь",
+                "Б б",
+                "В в",
+                "Г г",
+                "Гӏ гӏ",
+                "Д д"
+              ],
+              [
+                "Е е",
+                "Ё ё",
+                "Ж ж",
+                "З з",
+                "И и",
+                "Й й",
+                "К к"
+              ],
+              [
+                "Кх кх",
+                "Къ къ",
+                "Кӏ кӏ",
+                "Л л",
+                "М м",
+                "Н н",
+                "О о"
+              ],
+              [
+                "Оь оь",
+                "П п",
+                "Пӏ пӏ",
+                "Р р",
+                "С с",
+                "Т т",
+                "Тӏ тӏ"
+              ],
+              [
+                "У у",
+                "Уь уь",
+                "Ф ф",
+                "Х х",
+                "Хь хь",
+                "Хӏ хӏ",
+                "Ц ц"
+              ],
+              [
+                "Цӏ цӏ",
+                "Ч ч",
+                "Чӏ чӏ",
+                "Ш ш",
+                "Щ щ",
+                "Ъ ъ",
+                "Ы ы"
+              ],
+              [
+                "Ь ь",
+                "Э э",
+                "Ю ю",
+                "Юь юь",
+                "Я я",
+                "Яь яь",
+                "Ӏ ӏ"
+              ]
+            ],
+            "Lower-case [palochka](https://en.wikipedia.org/wiki/Palochka), ⟨ӏ⟩, is found in handwriting. Usually, palochka uppercase and lowercase forms [consistent](https://en.wikipedia.org/wiki/Cyrillic_script#Lowercase_forms) in print or upright, but only upper-case ⟨Ӏ⟩ is normally used in computers.[18]"
+          ]
+        },
+        {
+          "id": 13,
+          "heading": "Latin script",
+          "content": [
+            {
+              "id": 14,
+              "heading": "1925 Latin alphabet",
+              "content": [
+                "The first time that the Latin alphabet was [introduced](https://en.wikipedia.org/wiki/Latinisation_in_the_Soviet_Union), was in 1925, replacing Arabic alphabet. Further minor modifications in 1934, unified Chechen orthography with Ingush. But the Latin alphabet was abolished in 1938, being replaced with Cyrillic.",
+                [
+                  [
+                    "A a",
+                    "Ä ä",
+                    "B b",
+                    "C c",
+                    "Č č",
+                    "Ch ch",
+                    "Čh čh",
+                    "D d"
+                  ],
+                  [
+                    "E e",
+                    "F f",
+                    "G g",
+                    "Gh gh",
+                    "H h",
+                    "I i",
+                    "J j",
+                    "K k"
+                  ],
+                  [
+                    "Kh kh",
+                    "L l",
+                    "M m",
+                    "N n",
+                    "Ņ ņ",
+                    "O o",
+                    "Ö ö",
+                    "P p"
+                  ],
+                  [
+                    "Ph ph",
+                    "Q q",
+                    "Qh qh",
+                    "R r",
+                    "S s",
+                    "Š š",
+                    "T t",
+                    "Th th"
+                  ],
+                  [
+                    "U u",
+                    "Ü ü",
+                    "V v",
+                    "X x",
+                    "Ẋ ẋ",
+                    "Y y",
+                    "Z z",
+                    "Ž ž"
+                  ]
+                ]
+              ]
+            },
+            {
+              "id": 15,
+              "heading": "1992 Latin alphabet",
+              "content": [
+                "In 1992, with the de facto secession of [Chechen Republic of Ichkeria](https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria) from Russia, a new Latin Chechen alphabet was introduced and used in parallel with the Cyrillic alphabet. This was the second time a Latin-based orthography was created for Chechen. But after the defeat of the [Chechen Republic of Ichkeria](https://en.wikipedia.org/wiki/Chechen_Republic_of_Ichkeria) government by the [Russian Armed Forces](https://en.wikipedia.org/wiki/Russian_Armed_Forces), the Cyrillic alphabet was restored.[6]",
+                [
+                  [
+                    "A a",
+                    "Ä ä",
+                    "B b",
+                    "C c",
+                    "Ċ ċ",
+                    "Ç ç",
+                    "Ç̇ ç̇"
+                  ],
+                  [
+                    "D d",
+                    "E e",
+                    "F f",
+                    "G g",
+                    "Ġ ġ",
+                    "H h",
+                    "X x"
+                  ],
+                  [
+                    "Ẋ ẋ",
+                    "I i",
+                    "J j",
+                    "K k",
+                    "Kh kh",
+                    "L l",
+                    "M m"
+                  ],
+                  [
+                    "N n",
+                    "Ꞑ ꞑ (Ŋ ŋ)",
+                    "O o",
+                    "Ö ö",
+                    "P p",
+                    "Ph ph",
+                    "Q q"
+                  ],
+                  [
+                    "Q̇ q̇",
+                    "R r",
+                    "S s",
+                    "Ş ş",
+                    "T t",
+                    "Th th",
+                    "U u"
+                  ],
+                  [
+                    "Ü ü",
+                    "V v",
+                    "Y y",
+                    "Z z",
+                    "Ƶ ƶ",
+                    "Ə ə",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "heading": "Arabic script",
+          "content": [
+            "The first, most widespread modern orthography for Chechen was the Arabic script, adopted in the 19th century.[19] Chechen was not a traditionally written language, but due to the public's familiarity with the Arabic script – as the script of instruction in the region's Islamic and Quranic schools – the Arabic alphabet was first standardized and adopted for Chechen during the reign of [Imam Shamil](https://en.wikipedia.org/wiki/Imam_Shamil). Islam has been the dominant religion in Chechnya since the 16th century, and there were 200 religious schools as well as more than 3000 pupils in Chechnya and Ingushetia. Thus the Arabic script was well established among the speakers of Chechen.[20]",
+            "However, the Arabic alphabet would not be suitable for Chechen, and so modifications would be needed. The Arabic alphabet underwent various iterations, improvements and modifications for the Chechen language. Within Chechen society, these modifications were not without controversy. The Muslim clergy and the more conservative segments of Chechen society initially resisted any changes to the Arabic script, with the belief that this script was sacred due to its association with Islam, and was not to be changed. The clergy and Islamic educational institutions opposed each and every iteration of proposed reforms in the Arabic script.[21] While modifications to the Arabic script to match local languages had been common practice for centuries, for languages such as [Persian](https://en.wikipedia.org/wiki/Persian_language) and [Ottoman Turkish](https://en.wikipedia.org/wiki/Ottoman_Turkish), the modifications in Chechen were done independently from these two nearby and influential literary traditions and were focused on the needs of the Chechen language. Initially, the Chechen Arabic alphabet looked like this (from left to right):",
+            "ي ﻻ ه و ن م ل ڮ ك ڨ ق ف غ ع ظ ط ض ص ش س ز ر ذ د خ ح ج ث ت ب ا",
+            "In this alphabet, two additional letters were added to the base Arabic script:[21]",
+            [
+              "The letter ڨ‎, equivalent to Cyrillic digraph \"Къ\" and representing the sound /qʼ/;",
+              "The letter ڮ‎ equivalent to Cyrillic letter \"Кӏ\" and representing the sound /kʼ/. This letter was later revised to ࢰ‎"
+            ],
+            "In 1910, Sugaip Gaisunov proposed additional reforms that brought Arabic alphabet closer to Chechen's phonetic requirements. Sugaip Gaisunov introduced four additional consonants:[21]",
+            [
+              "The letter ڥ‎, equivalent to Cyrillic letter \"Пӏ\" and representing the sound /pʼ/; This letter was later revised to ڢ‎",
+              "The letter ر࣮‎ (https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg), equivalent to Cyrillic letters \"Ц\" and \"Цӏ\" and representing the sounds /ts/ and /tsʼ/;",
+              "The letter چ‎, equivalent to Cyrillic letters \"Ч\" and \"Чӏ\", representing the sounds /tʃ/ and /t͡ʃʼ/;",
+              "The letter گ‎, equivalent to Cyrillic letter \"Г\" and representing the sound /g/;"
+            ],
+            "In Sugaip Gaisunov's reforms, the letters ص‎ (*ṣād/sād*) and ض‎ (*zād/ḍād*) had their usage limited to Arabic loanwords but were not eliminated due to opposition from clergy and conservative segments of Chechen society. In another short-lasting modification, Sugaip Gaisunov proposed adding a overline (◌ٙ) ([U+0659](https://www.compart.com/en/unicode/U+0659)) over letters that can be read as either a consonant or a vowel, namely the letters و‎ (*waw*) (equivalent to Cyrillic letter \"В\" or to letters \"О, Оь, У, Уь\") and ی‎ (*yāʼ*) (equivalent to Cyrillic letter \"Й\" or to letter \"И\"). The overbar signified a vowel use when needed to avoid confusions. This modification did not persist in the Chechen alphabet. Thus, the 1910 iteration of the Arabic script continued being used until 1920.[21]",
+            "In 1920, two Chechen literaturists, A. Tugaev and T. Eldarkhanov, published a document. In this document they proposed new modifications, which were the addition of two new consonants:[21]",
+            [
+              "The letter څ‎, equivalent to Cyrillic letter \"Чӏ\" and representing the sound /t͡ʃʼ/. This letter was later revised to ڃ‎, Thus the letter چ‎ was reduced to only representing the sound /tʃ/, equivalent to Cyrillic letter \"Ч\";",
+              "The letter ڗ‎, equivalent to Cyrillic letter \"Цӏ\" and representing the sound /tsʼ/; Thus the letter ر̤‎ (https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg) was reduced to only representing the sound /ts/, equivalent to Cyrillic letter \"Ц\";"
+            ],
+            "These modifications by A. Tugaev and T. Eldarkhanov were a great final step in creating a modified Arabic script that represents Chechen consonants. However, the Arabic alphabet still was not suitable in representing Chechen vowel sounds. Arabic script itself uses [harakat](https://en.wikipedia.org/wiki/Arabic_diacritics), meaning that most but not all vowels are shown with diacritics, which are in most cases left unwritten. The process of transforming Arabic script into a full alphabet for use by a non-Arabic language has been a common occurrence, and has been done in [Uyghur](https://en.wikipedia.org/wiki/Uyghur_Arabic_alphabet), [Kazakh](https://en.wikipedia.org/wiki/Kazakh_alphabets), [Kurdish](https://en.wikipedia.org/wiki/Sorani_alphabet) and several more Arabic-derived scripts.",
+            "Thus a final revision on Chechen Arabic script occurred, in which vowel sounds were standardized.",
+            [
+              [
+                "**Vowel as first sound of word**",
+                "**Vowel as first sound of word**",
+                "**Vowel as first sound of word**",
+                "**Vowel as first sound of word**",
+                "**Vowel as first sound of word**",
+                "**Vowel as first sound of word**"
+              ],
+              [
+                "А а",
+                "Аь аь",
+                "Е е Э э",
+                "И и",
+                "О о Оь оь",
+                "У у Уь уь"
+              ],
+              [
+                "آ‎",
+                "آ‎",
+                "اە‎",
+                "ایـ / ای‎",
+                "اوٓ‎",
+                "او‎"
+              ],
+              [
+                "**Vowel as middle and final sound of word**",
+                "**Vowel as middle and final sound of word**",
+                "**Vowel as middle and final sound of word**",
+                "**Vowel as middle and final sound of word**",
+                "**Vowel as middle and final sound of word**",
+                "**Vowel as middle and final sound of word**"
+              ],
+              [
+                "ـا / ا / ـآ / آ‎",
+                "ـا / ا‎",
+                "ـە / ە‎",
+                "ـیـ / یـ / ـی / ی‎",
+                "ـوٓ / وٓ‎",
+                "ـو / و‎"
+              ],
+              [
+                "A a Ə ə",
+                "Ä ä",
+                "E e",
+                "I i",
+                "O o Ö ö",
+                "U u Ü ü"
+              ]
+            ],
+            "Table below lists the 41 letters of the final iteration of Chechen Arabic Alphabet, as published by Chechen Authorities at the time, prior to 1925, their IPA values, and their Cyrillic equivalents.",
+            [
+              "Chechen Arabic alphabet (Pre-1925)[22]",
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "آ / ا‎ ‌( А а ) [[ɑ](https://en.wikipedia.org/wiki/Open_back_unrounded_vowel)]/[[ɑː](https://en.wikipedia.org/wiki/Open_back_unrounded_vowel)]",
+                "ب‎ ‌(Б б) [[b](https://en.wikipedia.org/wiki/Voiced_bilabial_plosive)]",
+                "ت‎ ‌(Т т) [[t](https://en.wikipedia.org/wiki/Voiceless_alveolar_plosive)]",
+                "ث‎ ‌(С с) [[s](https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative)]‍",
+                "ج‎ ‌(Ж ж) [[ʒ](https://en.wikipedia.org/wiki/Voiced_postalveolar_fricative)]/[[d͡ʒ](https://en.wikipedia.org/wiki/Voiced_postalveolar_affricate)]",
+                "ح‎ ‌(Хь хь) [[ħ](https://en.wikipedia.org/wiki/Voiceless_pharyngeal_fricative)]"
+              ],
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "خ‎ ‌(Х х) [[x](https://en.wikipedia.org/wiki/Voiceless_velar_fricative)]",
+                "چ‎ ‌(Ч ч) [[t͡ʃ](https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate)]",
+                "ڃ‎ ‌(ЧӀ чӀ) [[t͡ʃʼ](https://en.wikipedia.org/wiki/Postalveolar_ejective_affricate)]",
+                "د‎ ‌(Д д) [[d](https://en.wikipedia.org/wiki/Voiced_alveolar_plosive)]",
+                "ذ‎ ‌(З з) [[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)]/[[d͡z](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)]",
+                "ر‎ ‌(Р р) [[r](https://en.wikipedia.org/wiki/Voiced_alveolar_trill)]"
+              ],
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "ز‎ ‌(З з) [[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)]/[[d͡z](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)]",
+                "ر̤‎ (https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg) ‌(Ц ц) [[t͡s](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)]",
+                "ڗ‎ ‌(ЦӀ цӀ) [[t͡sʼ](https://en.wikipedia.org/wiki/Alveolar_ejective_affricate)]",
+                "س‎ ‌(С с) [[s](https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative)]",
+                "ش‎ ‌(Ш ш) [[ʃ](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)]",
+                "ص‎ ‌(S s) [[s](https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative)]"
+              ],
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "ض‎ ‌(З з) [[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)]/[[d͡z](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)]",
+                "ط‎ ‌(ТӀ тӀ) [[tʼ](https://en.wikipedia.org/wiki/Alveolar_ejective_stop)]",
+                "ظ‎ ‌(З з) [[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)]/[[d͡z](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)]",
+                "ع‎ ‌(Ӏ ӏ) [[ʕ](https://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative)]",
+                "غ‎ ‌(ГӀ гӀ) [[ɣ](https://en.wikipedia.org/wiki/Voiced_velar_fricative)]",
+                "ف‎ ‌(П п / Ф ф) [[p](https://en.wikipedia.org/wiki/Voiceless_bilabial_plosive)]/[[f](https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative)]"
+              ],
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "ڢ‎ ‌(ПӀ пӀ) [[pʼ](https://en.wikipedia.org/wiki/Bilabial_ejective_stop)]",
+                "ق‎ ‌(Кх кх) [[q](https://en.wikipedia.org/wiki/Voiceless_uvular_plosive)]",
+                "ڨ ‌(Къ къ) [[qʼ](https://en.wikipedia.org/wiki/Uvular_ejective_stop)]",
+                "ک‎ ‌(К к) [[k](https://en.wikipedia.org/wiki/Voiceless_velar_plosive)]",
+                "گ‎ ‌(Г г) [[g](https://en.wikipedia.org/wiki/Voiced_velar_plosive)]",
+                "ࢰ‎ ‌(КӀ кӀ) [[kʼ](https://en.wikipedia.org/wiki/Velar_ejective_stop)]"
+              ],
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "ل‎ ‌(Л л) [[l](https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_approximant)]",
+                "م‎ ‌(М м) [[m](https://en.wikipedia.org/wiki/Voiced_bilabial_nasal)]",
+                "ن‎ ‌(Н н) [[n](https://en.wikipedia.org/wiki/Voiced_alveolar_nasal)]",
+                "و‎ ‌(В в) [[w](https://en.wikipedia.org/wiki/Voiced_labial–velar_approximant)]/[[v](https://en.wikipedia.org/wiki/Voiced_labiodental_fricative)]",
+                "او / و‎ ‌(У у) [[u](https://en.wikipedia.org/wiki/Close_back_rounded_vowel)]",
+                "اوٓ / وٓ‎ ‌(О о) [[o](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel)]/[[ɔː](https://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel)]"
+              ],
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "ھ‎ ‌(ХӀ хӀ) [[h](https://en.wikipedia.org/wiki/Voiceless_glottal_fricative)]",
+                "اە / ە‎ ‌(Е е / Э э) [[e](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel)]/[[ɛː](https://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel)]",
+                "ی‎ ‌(Й й) [[j](https://en.wikipedia.org/wiki/Voiced_palatal_approximant)]",
+                "ای / ی‎ ‌(И и) [[i](https://en.wikipedia.org/wiki/Close_front_unrounded_vowel)]",
+                "ئ‎ ‌(Ъ ъ) [[ʔ](https://en.wikipedia.org/wiki/Glottal_stop)]",
+                null
+              ],
+              [
+                "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
+                "اە / ە‎ ‌(Аь аь) [[æ](https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel)]/[[æː](https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel)]",
+                "اؤ / ؤ‎ ‌(Оь оь) [[ø](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel)]/[[œː](https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel)]",
+                "اوُی / وُی‎ ‌(Уь уь) [[y](https://en.wikipedia.org/wiki/Close_front_rounded_vowel)]",
+                null,
+                null,
+                null
+              ]
+            ]
+          ]
+        },
+        {
+          "id": 17,
+          "heading": "Comparison chart",
+          "content": [
+            "The single letters and digraphs that count as separate letters of the alphabet, along with their correspondences, are as follows. Those in parentheses are optional or only found in Russian words:",
+            [
+              [
+                "Cyrillic",
+                "Latin (1992–2000)",
+                "Latin (1925–1938)",
+                "Arabic (1922–1925)",
+                "IPA"
+              ],
+              [
+                "А а",
+                "A a, Ə ə",
+                "A a",
+                "آ",
+                "/ɑ/, /ɑː/"
+              ],
+              [
+                "[Аь](https://en.wikipedia.org/wiki/Аь) аь",
+                "Ä ä",
+                "Ä ä",
+                "ا",
+                "/æ/, /æː/"
+              ],
+              [
+                "Б б",
+                "B b",
+                "B b",
+                "ب",
+                "/b/"
+              ],
+              [
+                "В в",
+                "V v",
+                "V v",
+                "و",
+                "/v/"
+              ],
+              [
+                "Г г",
+                "G g",
+                "G g",
+                "گ",
+                "/g/"
+              ],
+              [
+                "Гӏ гӏ",
+                "Ġ ġ",
+                "Gh gh",
+                "غ",
+                "/ɣ/"
+              ],
+              [
+                "Д д",
+                "D d",
+                "D d",
+                "د",
+                "/d/"
+              ],
+              [
+                "Е е",
+                "E e, Ie ie, Ye ye",
+                "E e, Je je",
+                "ە",
+                "/e/, /ɛː/, /je/, /ie/"
+              ],
+              [
+                "Ё ё",
+                "Yo yo",
+                "—",
+                "یوٓ",
+                "/jo/"
+              ],
+              [
+                "Ж ж",
+                "Ƶ ƶ",
+                "Ž ž",
+                "ج",
+                "/ʒ/, /d͡ʒ/"
+              ],
+              [
+                "З з",
+                "Z z",
+                "Z z",
+                "ز",
+                "/z/, /d͡z/"
+              ],
+              [
+                "И и",
+                "I i",
+                "I i",
+                "ای",
+                "/i/"
+              ],
+              [
+                "Й й",
+                "Y y",
+                "J j",
+                "ی",
+                "/j/"
+              ],
+              [
+                "К к",
+                "K k",
+                "K k",
+                "ک",
+                "/k/"
+              ],
+              [
+                "Кх кх",
+                "Q q",
+                "Q q",
+                "ق",
+                "/q/"
+              ],
+              [
+                "Къ къ",
+                "Q̇ q̇",
+                "Qh qh",
+                "ڨ",
+                "/qʼ/"
+              ],
+              [
+                "Кӏ кӏ",
+                "Kh kh",
+                "Kh kh",
+                "ࢰ",
+                "/kʼ/"
+              ],
+              [
+                "Л л",
+                "L l",
+                "L l",
+                "ل",
+                "/l/"
+              ],
+              [
+                "М м",
+                "M m",
+                "M m",
+                "م",
+                "/m/"
+              ],
+              [
+                "Н н",
+                "N n, Ŋ ŋ",
+                "N n, Ŋ ŋ",
+                "ن",
+                "/n/, /ŋ/"
+              ],
+              [
+                "О о",
+                "O o, Uo uo",
+                "O o",
+                "اوٓ",
+                "/o/, /ɔː/, /wo/, /uo/"
+              ],
+              [
+                "[Оь](https://en.wikipedia.org/wiki/Оь) оь",
+                "Ö ö, Üö üö",
+                "Ö ö",
+                "اوٓ",
+                "/ø/, /œː/, /ɥø/, /yø/"
+              ],
+              [
+                "П п",
+                "P p",
+                "P p",
+                "ف",
+                "/p/"
+              ],
+              [
+                "Пӏ пӏ",
+                "Ph ph",
+                "Ph ph",
+                "ڢ",
+                "/pʼ/"
+              ],
+              [
+                "Р р",
+                "R r",
+                "R r",
+                "ر",
+                "/r/"
+              ],
+              [
+                "С с",
+                "S s",
+                "S s",
+                "س",
+                "/s/"
+              ],
+              [
+                "Т т",
+                "T t",
+                "T t",
+                "ت",
+                "/t/"
+              ],
+              [
+                "Тӏ тӏ",
+                "Th th",
+                "Th th",
+                "ط",
+                "/tʼ/"
+              ],
+              [
+                "У у",
+                "U u",
+                "U u",
+                "او",
+                "/u/"
+              ],
+              [
+                "[Уь](https://en.wikipedia.org/wiki/Уь) уь",
+                "Ü ü",
+                "Ü ü",
+                "او",
+                "/y/"
+              ],
+              [
+                "Ф ф",
+                "F f",
+                "F f",
+                "ف",
+                "/f/"
+              ],
+              [
+                "Х х",
+                "X x",
+                "X x",
+                "خ",
+                "/x/"
+              ],
+              [
+                "Хь хь",
+                "Ẋ ẋ",
+                "X̌ x̌ (Ꜧ ꜧ)",
+                "ح",
+                "/ħ/"
+              ],
+              [
+                "Хӏ хӏ",
+                "H h",
+                "H h",
+                "ھ",
+                "/h/"
+              ],
+              [
+                "Ц ц",
+                "C c",
+                "C c",
+                "ر̤ https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg",
+                "/t͡s/"
+              ],
+              [
+                "Цӏ цӏ",
+                "Ċ ċ",
+                "Ch ch",
+                "ڗ",
+                "/t͡sʼ/"
+              ],
+              [
+                "Ч ч",
+                "Ç ç",
+                "Č č",
+                "چ",
+                "/t͡ʃ/"
+              ],
+              [
+                "Чӏ чӏ",
+                "Ç̇ ç̇",
+                "Čh čh",
+                "ڃ",
+                "/t͡ʃʼ/"
+              ],
+              [
+                "Ш ш",
+                "Ş ş",
+                "Š š",
+                "ش",
+                "/ʃ/"
+              ],
+              [
+                "(Щ щ)",
+                "Şç şç",
+                "Šč šč",
+                "—",
+                null
+              ],
+              [
+                "(Ъ ъ)",
+                "'",
+                "—",
+                "ئ",
+                "/ʔ/"
+              ],
+              [
+                "(Ы ы)",
+                "i",
+                "—",
+                "—",
+                null
+              ],
+              [
+                "(Ь ь)",
+                null,
+                "—",
+                "—",
+                null
+              ],
+              [
+                "Э э",
+                "E e",
+                "E e",
+                "اە",
+                "/e/"
+              ],
+              [
+                "Ю ю",
+                "Yu yu",
+                "Ju ju",
+                "یو",
+                "/ju/"
+              ],
+              [
+                "Юь юь",
+                "Yü yü",
+                "Jü jü",
+                "یو",
+                "/jy/"
+              ],
+              [
+                "Я я",
+                "Ya ya",
+                "Ja ja",
+                "یا",
+                "/ja/"
+              ],
+              [
+                "Яь яь",
+                "Yä yä",
+                "Jä jä",
+                "یا",
+                "/jæ/"
+              ],
+              [
+                "[Ӏ ӏ](https://en.wikipedia.org/wiki/Ӏ)",
+                "J j",
+                "Y y",
+                "ع",
+                "/ʕ/"
+              ]
+            ],
+            "In addition, several sequences of letters for long vowels and consonants, while not counted as separate letters in their own right, are presented here to clarify their correspondences:",
+            [
+              [
+                "Cyrillic",
+                "Name",
+                "Arabic (before 1925)",
+                "Modern Latin[6]",
+                "Name",
+                "IPA"
+              ],
+              [
+                "[Ий](https://en.wikipedia.org/wiki/Ий) ий",
+                null,
+                "یی",
+                "Iy iy",
+                null,
+                "/iː/"
+              ],
+              [
+                "[Кк](https://en.wikipedia.org/wiki/Кк) кк",
+                null,
+                "کک",
+                "Kk kk",
+                null,
+                "/kː/"
+              ],
+              [
+                "[Ккх](https://en.wikipedia.org/wiki/Ккх) ккх",
+                null,
+                "قق",
+                "Qq qq",
+                null,
+                "/qː/"
+              ],
+              [
+                "[Ов](https://en.wikipedia.org/wiki/Ов) ов",
+                "ов",
+                "وٓو",
+                "Ov ov",
+                "ov",
+                "/ɔʊ/"
+              ],
+              [
+                "[Пп](https://en.wikipedia.org/wiki/Пп) пп",
+                null,
+                "فف",
+                "Pp pp",
+                null,
+                "/pː/"
+              ],
+              [
+                "[Рхӏ](https://en.wikipedia.org/wiki/Рхӏ) рхӏ",
+                null,
+                "رھ",
+                "Rh rh",
+                null,
+                "/r̥/"
+              ],
+              [
+                "[Сс](https://en.wikipedia.org/wiki/Сс) сс",
+                null,
+                "سس",
+                "Ss ss",
+                null,
+                "/sː/"
+              ],
+              [
+                "[Тт](https://en.wikipedia.org/wiki/Тт) тт",
+                null,
+                "تت",
+                "Tt tt",
+                null,
+                "/tː/"
+              ],
+              [
+                "[Ув](https://en.wikipedia.org/wiki/Ув) ув",
+                null,
+                "وو",
+                "Uv uv",
+                null,
+                "/uː/"
+              ],
+              [
+                "[Уьй](https://en.wikipedia.org/wiki/Уьй) уьй",
+                "уьй",
+                "و",
+                "Üy üy",
+                "üy",
+                "/yː/"
+              ]
+            ],
+            {
+              "id": 18,
+              "heading": "Notes",
+              "content": [
+                "a. [/ˈtʃɛtʃɛn/](https://en.wikipedia.org/wiki/Help:IPA/English) [*CHETCH-en*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key),[4] [/tʃəˈtʃɛn/](https://en.wikipedia.org/wiki/Help:IPA/English) [*chə-CHEN*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key);[5][6]"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "heading": "Grammar",
+      "content": [
+        "Chechen is an [agglutinative language](https://en.wikipedia.org/wiki/Agglutinative_language) with an [ergative–absolutive](https://en.wikipedia.org/wiki/Ergative–absolutive_language) [morphosyntactic alignment](https://en.wikipedia.org/wiki/Morphosyntactic_alignment). Chechen nouns belong to one of six genders or classes, each with a specific prefix with which the verb or an accompanying [adjective](https://en.wikipedia.org/wiki/Adjective) agrees. The verb does not agree with person or number, having only tense forms and participles. Among these are an [optative](https://en.wikipedia.org/wiki/Optative_mood) and an [antipassive](https://en.wikipedia.org/wiki/Antipassive_voice). Some verbs, however, do not take these prefixes.[23]",
+        "Chechen is an [ergative](https://en.wikipedia.org/wiki/Ergative_language), [dependent-marking language](https://en.wikipedia.org/wiki/Dependent-marking_language) using eight [cases](https://en.wikipedia.org/wiki/Grammatical_case) ([absolutive](https://en.wikipedia.org/wiki/Absolutive_case), [genitive](https://en.wikipedia.org/wiki/Genitive_case), [dative](https://en.wikipedia.org/wiki/Dative_case), [ergative](https://en.wikipedia.org/wiki/Ergative_case), [allative](https://en.wikipedia.org/wiki/Allative_case), [instrumental](https://en.wikipedia.org/wiki/Instrumental_case), [locative](https://en.wikipedia.org/wiki/Locative_case) and [comparative](https://en.wikipedia.org/wiki/Comparative_case)) and a large number of [postpositions](https://en.wikipedia.org/wiki/Postposition) to indicate the role of nouns in sentences.",
+        "Word order is consistently [left-branching](https://en.wikipedia.org/wiki/Left-branching_language) (like in [Japanese](https://en.wikipedia.org/wiki/Japanese_language) or [Turkish](https://en.wikipedia.org/wiki/Turkish_language)), so that [adjectives](https://en.wikipedia.org/wiki/Adjective), [demonstratives](https://en.wikipedia.org/wiki/Demonstrative) and [relative clauses](https://en.wikipedia.org/wiki/Relative_clause) precede the nouns they modify. [Complementizers](https://en.wikipedia.org/wiki/Complementizer) and [adverbial subordinators](https://en.wikipedia.org/wiki/Adverbial_subordinator), as in other [Northeast](https://en.wikipedia.org/wiki/Northeast_Caucasian_languages) and in [Northwest Caucasian languages](https://en.wikipedia.org/wiki/Northwest_Caucasian_languages), are [affixes](https://en.wikipedia.org/wiki/Affix) rather than independent words.",
+        "Chechen also presents interesting challenges for [lexicography](https://en.wikipedia.org/wiki/Lexicography), as creating new words in the language relies on fixation of whole phrases rather than adding to the end of existing words or combining existing words. It can be difficult to decide which phrases belong in the dictionary, because the language's grammar does not permit the borrowing of new [verbal](https://en.wikipedia.org/wiki/Verb) [morphemes](https://en.wikipedia.org/wiki/Morpheme) to express new concepts.[24] Instead, the verb **dan** (to do) is combined with [nominal phrases](https://en.wikipedia.org/wiki/Noun_phrase) to correspond with new concepts imported from other languages.",
+        {
+          "id": 20,
+          "heading": "Noun classes",
+          "content": [
+            "Chechen nouns are divided into six lexically arbitrary [noun classes](https://en.wikipedia.org/wiki/Noun_class).[25] Wier (2024) observes that \"Semantically, only genders 1 and 2 are almost fully consistent, referring to male and female human nouns respectively, while the other genders divide up the rest of the world in different ways. Gender 3 mostly refers to domestic animals, while Gender 5 is where most words referring to tools and man-made products are classed.\"[26] Morphologically, noun classes may be indexed by changes in the prefix of the accompanying verb and, in many cases, the adjective too. The first two of these classes apply to human beings, although some grammarians count these as two and some as a single class; the other classes however are much more lexically arbitrary. Chechen noun classes are named according to the prefix that indexes them:",
+            [
+              [
+                "Noun class",
+                "Noun example",
+                "Singular prefix",
+                "Plural prefix",
+                "Singular agreement",
+                "Plural agreement"
+              ],
+              [
+                "1. v-class",
+                "*k'ant* 'boy'",
+                "***v-***",
+                "***b-*/*d-***",
+                "*k'ant **v-**eza **v-**u* 'the boy is heavy'",
+                "*k'entii **d-**eza **d-**u* 'the boys are heavy'"
+              ],
+              [
+                "2. y-class",
+                "*zuda* 'woman'",
+                "***y-***",
+                "***b-*/*d-***",
+                "*zudari **b-**eza **b-**u* 'the women are heavy'",
+                null
+              ],
+              [
+                "3. y-class II",
+                "*ph'āgal* 'rabbit'",
+                "***y-***",
+                "***y-***",
+                "*ph'āgal **y**-eza **y**-u* 'the rabbit is heavy'",
+                "*ph'āgalash **y**-eza **y**-u* 'the rabbits are heavy'"
+              ],
+              [
+                "4. d-class",
+                "*naž* 'oak'",
+                "***d-***",
+                "***d-***",
+                "*naž **d**-eza **d**-u* 'the oak is heavy'",
+                "*niežnash **d**-eza **d**-u* 'the oaks are heavy'"
+              ],
+              [
+                "5. b-class",
+                "*mangal* 'scythe'",
+                "***b-***",
+                "***b-/Ø-***",
+                "*mangal **b-**eza **b-**u* 'the scythe is heavy'",
+                "*mangalash **b-**eza **b-**u* 'the scythes are heavy'"
+              ],
+              [
+                "6. b-class II",
+                "*ˤaž* 'apple'",
+                "***b-***",
+                "*ˤaž **b-**eza **b**-u* 'the apple is heavy'",
+                "*ˤežash **d-**eza **d-**u* 'the apples are heavy'",
+                null
+              ]
+            ],
+            "When a noun denotes a human being, it usually falls into v- or y-Classes (1 or 2). Most nouns referring to male entities fall into the v-class, whereas Class 2 contains words related to female entities. Thus *lūlaxuo* 'a neighbour' is normally considered class 1, but it takes *v-* if referring to a male neighbour and *y-* if a female. This is similar to the Spanish word *estudiante* 'student', where *el estudiante* refers to a male student, and *la estudiante* refers to a female student.[27]",
+            "In a few words, changing the prefixes before the nouns indicates grammatical gender; thus: vоsha 'brother' → *yisha* 'sister'. Some nouns denoting human beings, however, are not in Classes 1 or 2: *bēr* 'child', for example, is in class 3.",
+            "Changing the class of a word, for example, from one associated with humans (2) to one associated with wildness (4) may also result in it becoming obscene: *zuda d-eza d-u* (woman 4-heavy 4-be.PRES) means \"The bitchy, whoring woman is heavy.\"[26]",
+            {
+              "id": 21,
+              "heading": "Classed adjectives",
+              "content": [
+                "Only a few of Chechen's adjectives index noun class agreement, termed *classed adjectives* in the literature. Classed adjectives are listed with the d-class prefix in the romanizations below:[28]",
+                [
+                  "деза (*d-eza*): 'heavy'",
+                  "довха (*d-ouxa*): 'hot'",
+                  "деха (*d-iexa*): 'long'",
+                  "дуькъа (*d-yq’a*): 'thick'",
+                  "дораха (*d-oraxa*): 'cheap'",
+                  "дерстана (*d-erstana*): 'fat'",
+                  "дуьткъа (*d-ytq’a*): 'thin'",
+                  "доца (*d-oca*): 'short'",
+                  "дайн (*d-ain*): 'light'",
+                  "дуьзна (*d-yzna*): 'full'",
+                  "даьржана (*d-aerzhana*): 'spread'",
+                  "доккха (*d-oqqa*): 'large/big/old'"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "heading": "Declension",
+          "content": [
+            "Whereas [Indo-European languages](https://en.wikipedia.org/wiki/Indo-European_languages) code noun class and case conflated in the same [morphemes](https://en.wikipedia.org/wiki/Morpheme), Chechen nouns show no gender marking but decline in eight [grammatical cases](https://en.wikipedia.org/wiki/Grammatical_case), four of which are core cases (i.e. [absolutive](https://en.wikipedia.org/wiki/Absolutive_case), [ergative](https://en.wikipedia.org/wiki/Ergative_case), [genitive](https://en.wikipedia.org/wiki/Genitive_case), and [dative](https://en.wikipedia.org/wiki/Dative_case)) in singular and plural. Below the paradigm for \"говр\" (horse).",
+            [
+              [
+                "Case",
+                "singular",
+                "plural"
+              ],
+              [
+                "absolutive",
+                "говр *gour*",
+                "говраш *gourash*"
+              ],
+              [
+                "genitive",
+                "говран *gouran*",
+                "говрийн *gouriin*"
+              ],
+              [
+                "dative",
+                "говрана *gour(a)na*",
+                "говрашна *gourashna*"
+              ],
+              [
+                "ergative",
+                "говро *gouruo*",
+                "говраша *gourasha*"
+              ],
+              [
+                "allative",
+                "говре *gourie*",
+                "говрашка *gourashka*"
+              ],
+              [
+                "instrumental",
+                "говраца *gouratsa*",
+                "говрашца *gourashtsa*"
+              ],
+              [
+                "locative",
+                "говрах *gourax*",
+                "говрех *gouriäx*"
+              ],
+              [
+                "comparative",
+                "говрал *goural*",
+                "говрел *gouriäl*"
+              ]
+            ]
+          ]
+        },
+        {
+          "id": 23,
+          "heading": "Pronouns",
+          "content": [
+            "The first cell has it written in the orthography; the second in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).",
+            [
+              [
+                "Case",
+                "1SG",
+                "1SG",
+                "2SG",
+                "2SG",
+                "3SG",
+                "3SG",
+                "1INCL",
+                "1INCL",
+                "1EXCL",
+                "1EXCL",
+                "2PL",
+                "2PL",
+                "3PL",
+                "3PL"
+              ],
+              [
+                "absolutive",
+                "со",
+                "/sʷɔ/",
+                "хьо",
+                "/ʜʷɔ/",
+                "и, иза",
+                "/ɪ/,/ɪzə/",
+                "вай",
+                "/vəɪ/",
+                "тхо",
+                "/txʷʰo/",
+                "шу",
+                "/ʃu/",
+                "уьш, уьзаш",
+                "/yʃ/,/yzəʃ/"
+              ],
+              [
+                "genitive",
+                "сан",
+                "/sən/",
+                "хьан",
+                "/ʜən/",
+                "цуьнан",
+                "/tsʰynən/",
+                "вайн",
+                "/vəɪn/",
+                "тхан",
+                "/txʰən/",
+                "шун",
+                "/ʃun/",
+                "церан",
+                "/tsʰierən/"
+              ],
+              [
+                "dative",
+                "суна",
+                "/suːnə/",
+                "хьуна",
+                "/ʜuːnə/",
+                "цунна",
+                "/tsʰunːə/",
+                "вайна",
+                "/vaɪnə/",
+                "тхуна",
+                "/txʰunə/",
+                "шуна",
+                "/ʃunə/",
+                "царна",
+                "/tsʰarnə/"
+              ],
+              [
+                "ergative",
+                "ас",
+                "/ʔəs/",
+                "ахь",
+                "/əʜ/",
+                "цо",
+                "/tsʰuo/",
+                "вай",
+                "/vəɪ/",
+                "оха",
+                "/ʔɔxə/",
+                "аша",
+                "/ʔaʃə/",
+                "цара",
+                "/tsʰarə/"
+              ],
+              [
+                "allative",
+                "соьга",
+                "/sɥœgə/",
+                "хьоьга",
+                "/ʜɥœgə/",
+                "цуьнга",
+                "/tsʰyngə/",
+                "вайга",
+                "/vaɪgə/",
+                "тхоьга",
+                "/txʰɥœgə/",
+                "шуьга",
+                "/ʃygə/",
+                "цаьрга",
+                "/tsʰærgə/"
+              ],
+              [
+                "instrumental",
+                "соьца",
+                "/sɥœtsʰə/",
+                "хьоьца",
+                "/ʜɥœtsʰə/",
+                "цуьнца",
+                "/tsʰyntsʰə/",
+                "вайца",
+                "/vaɪtsʰə/",
+                "тхоьца",
+                "/txʰɥœtsʰə/",
+                "шуьца",
+                "/ʃytsʰə/",
+                "цаьрца",
+                "/tsʰærtsʰə/"
+              ],
+              [
+                "locative",
+                "сох",
+                "/sʷɔx/",
+                "хьох",
+                "/ʜʷɔx/",
+                "цунах",
+                "/tsʰunəx/",
+                "вайх",
+                "/vəɪx/",
+                "тхох",
+                "/txʷʰɔx/",
+                "шух",
+                "/ʃux/",
+                "царах",
+                "/tsʰarəx/"
+              ],
+              [
+                "comparative",
+                "сол",
+                "/sʷɔl/",
+                "хьол",
+                "/ʜʷɔl/",
+                "цул",
+                "/tsʰul/",
+                "вайл",
+                "/vəɪl/",
+                "тхол",
+                "/txʷʰɔl/",
+                "шул",
+                "/ʃul/",
+                "царел",
+                "/tsʰarɛl/"
+              ],
+              [
+                "reflexive possessive pronouns",
+                "сайн",
+                "/səɪn/",
+                "хьайн",
+                "/ʜəɪn/",
+                "шен",
+                "/ʃɛn/",
+                "вешан",
+                "/vieʃən/",
+                "тхайн",
+                "/txəɪn/",
+                "шайн",
+                "/ʃəɪn/",
+                "шайн",
+                "/ʃəɪn/"
+              ],
+              [
+                "substantives (mine, yours)",
+                "сайниг",
+                "/səɪnɪg/",
+                "хьайниг",
+                "/ʜəɪnɪg/",
+                "шениг",
+                "/ʃɛnɪg/",
+                "вешаниг",
+                "/vieʃənɪg/",
+                "тхайниг",
+                "/txəɪnɪg/",
+                "шайниг",
+                "/ʃəɪnɪg/",
+                "шайниг",
+                "/ʃəɪnɪg/"
+              ]
+            ],
+            "The locative has still a few further forms for specific positions."
+          ]
+        },
+        {
+          "id": 24,
+          "heading": "Verbs",
+          "content": [
+            "Verbs do not inflect for person (except for the special d- prefix for the 1st and 2nd persons plural), only for number and tense, aspect, mood. A minority of verbs exhibit agreement prefixes, and these agree with the noun in the absolutive case (what in English translation would the subject, for intransitive verbs, or the object, with transitive verbs).",
+            "Example of verbal agreement in intransitive clause with a composite verb:",
+            [
+              "Со цхьан сахьтехь **вогІур ву** (*so tsHan saHteH **voghur vu***) = I (male) will come in one hour",
+              "Со цхьан сахьтехь **йогІур ю** (*so tsHan saHteH **yoghur yu***) = I (female) will come in one hour"
+            ],
+            "Here, both the verb's future stem *-oghur* (will come) and the auxiliary *-u* (present tense of 'be') receive the prefix *v-* for masculine agreement and *y-* for feminine agreement.",
+            "In transitive clauses in compound continuous tenses formed with the auxiliary verb *-u* 'to be', both agent and object are in absolutive case. In this special case of a *biabsolutive* construction, the main verb in participial form agrees with the object, while the auxiliary agrees with the agent.",
+            "Cо бепиг **деш** **ву** (*so bepig **diesh vu***) = I (male) am making bread.",
+            "Here, the participle *d-iesh* agree with the object, whereas the auxiliary *v-u* agrees with the agent.[28]",
+            "Verbal tenses are formed by ablaut or suffixes, or both (there are five conjugations in total, below is one). Derived stems can be formed by suffixation as well (causative, etc.):",
+            [
+              [
+                "Tense",
+                "Example"
+              ],
+              [
+                "Imperative (=infinitive)",
+                "д*ига"
+              ],
+              [
+                "simple present",
+                "д*уьгу"
+              ],
+              [
+                "present composite",
+                "д*уьгуш д*у"
+              ],
+              [
+                "near preterite",
+                "д*игу"
+              ],
+              [
+                "witnessed past",
+                "д*игира"
+              ],
+              [
+                "perfect",
+                "д*игна"
+              ],
+              [
+                "plusquamperfect",
+                "д*игнера"
+              ],
+              [
+                "repeated preterite",
+                "д*уьгура"
+              ],
+              [
+                "possible future",
+                "д*уьгур"
+              ],
+              [
+                "real future",
+                "д*уьгур д*у"
+              ]
+            ],
+            [
+              [
+                "Tempus",
+                "Basic form (\"drink\")",
+                "Causative (\"make drink, drench\")",
+                "Permissive (\"allow to drink\")",
+                "Permissive causative (\"allow to make drink\")",
+                "Potential (\"be able to drink\")",
+                "Inceptive (\"start drinking\")"
+              ],
+              [
+                "Imperative (=infinitive)",
+                "мала",
+                "мало",
+                "малийта",
+                "мала д*айта",
+                "мала д*ала",
+                "мала д*āла"
+              ],
+              [
+                "simple present",
+                "молу",
+                "мала д*о",
+                "молуьйто",
+                "мала д*ойту",
+                "малало",
+                "мала д*олу"
+              ],
+              [
+                "near preterite",
+                "малу",
+                "малий",
+                "малийти",
+                "мала д*айти",
+                "мала д*ели",
+                "мала д*ēли"
+              ],
+              [
+                "witnessed past",
+                "мелира",
+                "малийра",
+                "малийтира",
+                "мала д*айтира",
+                "мала д*елира",
+                "мала д*ēлира"
+              ],
+              [
+                "perfect",
+                "мелла",
+                "малийна",
+                "малийтина",
+                "мала д*айтина",
+                "мала д*елла",
+                "мала д*аьлла"
+              ],
+              [
+                "plusquamperfect",
+                "меллера",
+                "малийнер",
+                "малийтинера",
+                "мала д*айтинера",
+                "мала д*елера",
+                "мала д*аьллера"
+              ],
+              [
+                "repeated past",
+                "молура",
+                "мала д*ора",
+                "молуьйтура",
+                "мала д*ойтура",
+                "малалора",
+                null
+              ],
+              [
+                "possible future",
+                "молур",
+                "мала д*ер",
+                "молуьйтур",
+                "мала д*ойтур",
+                "малалур",
+                "мала д*олур"
+              ],
+              [
+                "real future",
+                "молур д*у",
+                "мала д*ийр д*у",
+                "молуьйтур д*у",
+                "мала д*ойтур д*у",
+                "малалур д*у",
+                "мала д*олур д*у"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "heading": "Vocabulary",
+      "content": [
+        "Most Chechen vocabulary is derived from the Nakh branch of the Northeast Caucasian language family, although there are significant minorities of words derived from [Arabic](https://en.wikipedia.org/wiki/Arabic) (Islamic terms, like \"Iman\", \"Ilma\", \"Do'a\") and a smaller amount from Turkic (like \"kuzga\", \"shish\", belonging to the universal Caucasian stratum of borrowings) and most recently Russian (modern terms, like computer – \"kamputar\", television – \"telvideni\", televisor – \"telvizar\", metro – \"metro\" etc.)."
+      ]
+    },
+    {
+      "id": 26,
+      "heading": "References",
+      "content": [
+        [
+          "1. [Chechen](https://www.ethnologue.com/language/che) at *[Ethnologue](https://en.wikipedia.org/wiki/Ethnologue)* (27th ed., 2024) [Closed access icon](https://en.wikipedia.org/wiki/Paywall)",
+          "2. [Glottopedia article on Chechen language](http://www.glottopedia.org/index.php/Tschetschenisch).",
+          "3. [\"Chechen in Russian Federation\"](https://en.wal.unesco.org/countries/russian-federation/languages/chechen). *UNESCO WAL*. Retrieved 22 June 2024.",
+          "4. Longman, J.C. (2008). *Longman Pronunciation Dictionary* (3 ed.). Pearson Education ESL. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-1405881173](https://en.wikipedia.org/wiki/Special:BookSources/978-1405881173).",
+          "5. [\"Chechnya\"](https://www.merriam-webster.com/dictionary/Chechnya). *[Merriam-Webster.com Dictionary](https://en.wikipedia.org/wiki/Merriam-Webster)*. Merriam-Webster. [OCLC](https://en.wikipedia.org/wiki/OCLC_(identifier)) [1032680871](https://search.worldcat.org/oclc/1032680871).",
+          "6. [\"Chechen table of correspondence Cyrillic-Roman (BGN/PCGN 2008 Agreement)\"](https://geonames.nga.mil/gns/html/Romanization/TABLE%20OF%20CORRESPONDENCES%20FOR%20CHECHEN.pdf) (PDF). National Geospatial-Intelligence Agency. Retrieved 2022-02-04.",
+          "7. Jaimoukha. *Chechens*. Page 212",
+          "8. Jaimoukha, Amjad M. (2014). *The Chechens: a handbook*. Caucasus world Peoples of the Caucasus. London New York: Routledge, Taylor & Francis Group. p. 202. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-1-138-87445-9](https://en.wikipedia.org/wiki/Special:BookSources/978-1-138-87445-9).",
+          "9. Constitution, Article 10.1",
+          "10. Maʻoz, Gabriel Sheffer, Moshe (2002). [*Middle Eastern minorities and diasporas*](https://books.google.com/books?id=FEq14wCaqwAC&q=chechens+speak+their+own+language+punished+if+they+speak+arabic&pg=PA256). Sussex Academic Press. p. 255. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [1-902210-84-0](https://en.wikipedia.org/wiki/Special:BookSources/1-902210-84-0). Retrieved 12 May 2011.",
+          "11. [Johanna Nichols](https://en.wikipedia.org/wiki/Johanna_Nichols), Chechen, *The Indigenous languages of the Caucasus* (Caravan Books, Delmar NY, 1994) [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-88206-068-6](https://en.wikipedia.org/wiki/Special:BookSources/0-88206-068-6).",
+          "12. [\"Indigenous Language of the Caucasus (Chechen)\"](https://web.archive.org/web/20160304072204/http://ingush.narod.ru/chech/book/ch1011.gif). *Ingush.narod.ru*. pp. 10–11. Archived from [the original](http://ingush.narod.ru/chech/book/ch1011.gif) (GIF) on 2016-03-04. Retrieved 2016-01-21.",
+          "13. [\"О создании Свода орфографических правил и Большого орфографического словаря чеченского языка | Информационное агентство \"Грозный-Информ\"\"](https://www.grozny-inform.ru/news/nokhchiiyn-mott/133946/). *www.grozny-inform.ru* (in Russian). [Archived](https://web.archive.org/web/20230309110458/https://www.grozny-inform.ru/news/nokhchiiyn-mott/133946/) from the original on 2023-03-09. Retrieved 2023-03-09.",
+          "14. Джамалханов, З. Д.; Мациев, А. Г.; Овхадов, М. Р.; Халидов, А. И., eds. (2020). [*Нохчийн меттан нийсайаздаран коьрта бакъонаш*](https://web.archive.org/web/20230326143313/https://mon95.ru/media/5utcw4kb/gular.pdf) (PDF) (in Chechen). Соьлжа-ГӀала: АЙ «Арахецаран-полиграфин комплекс «Грозненский рабочий». p. 19. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-5-4314-0419-1](https://en.wikipedia.org/wiki/Special:BookSources/978-5-4314-0419-1). Archived from [the original](https://mon95.ru/media/5utcw4kb/gular.pdf) (PDF) on 2023-03-26.",
+          "15. Л. М. Довлеткиреева (2022). [\"Достижения чеченской орфографии и лексикографии 2020 – 2021 годов\"](https://web.archive.org/web/20231105185023/http://nminstitut.ru/images/file-site/tekstoviy/journali/2022/Vestnik-19.pdf) (PDF). *Вестник Института чеченского языка* (in Russian). pp. 21–24. Archived from [the original](http://nminstitut.ru/images/file-site/tekstoviy/journali/2022/Vestnik-19.pdf) (PDF) on 2023-11-05.",
+          "16. [\"Журналисты изучали новы правила орфографии\"](https://center-smi.ru/2022/04/13/zhurnalisty-izuchali-novy-pravila-orfografii/). Центр подготовки и переподготовки работников средств массовой информации. 2022-04-13. [Archived](https://web.archive.org/web/20231105185025/https://center-smi.ru/2022/04/13/zhurnalisty-izuchali-novy-pravila-orfografii/) from the original on 2023-11-05.",
+          "17. [И.Ю. Алироев](https://en.wikipedia.org/wiki/Алироев,_Ибрагим_Юнусович?action=edit&redlink=1) (2005). отв. ред. д-р филол. наук [З.Х. Хамидова](https://en.wikipedia.org/wiki/Хамидова_Зулай_Хамидовна?action=edit&redlink=1) (ed.). *Чеченско-русский словарь*. М.: Academia. p. 384. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [5-87444-180-8](https://en.wikipedia.org/wiki/Special:BookSources/5-87444-180-8).",
+          "18. Алиева, С. А.; Касумова, Б. С.-А.; Серганова, З. З.; Хамраева, Е. А. (2012). *Нохчийн мотт. Абат: йоза-дешар Ӏаморан Ӏамат. 1 класс* (in Chechen).",
+          "19. Aliroev, I. Y. (1999). *Чеченский язык (Chechen Language)* (pp. 24–31). [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [587444-105-0](https://en.wikipedia.org/wiki/Special:BookSources/587444-105-0)",
+          "20. [\"Documentation and grammatical description of Chechen including the Cheberloi dialect | Endangered Languages Archive\"](https://www.elararchive.org/dk0232/).",
+          "21. Chentieva, M. D. (1958). History of Checheno-Ingush writing (История чечено-ингушской письменности). Checheno-Ingush Publishing House (Чечено-Ингушское кн. изд-во).",
+          "22. Чеченская азбука - نوٓخچیی آلفبٰا (Нохчий алфба) (1925) [https://archive.org/details/chechen-abat/page/n27/mode/2up](https://archive.org/details/chechen-abat/page/n27/mode/2up)",
+          "23. Awde, Nicholas and Galäv, Muhammad, *Chechen*; p. 11. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-7818-0446-9](https://en.wikipedia.org/wiki/Special:BookSources/0-7818-0446-9)",
+          "24. Awde and Galäv; *Chechen*; p. 11",
+          "25. Awde, Nicholas; Galaev, Muhammad (22 May 2014). [*Chechen-English English-Chechen Dictionary and Phrasebook*](https://books.google.com/books?id=RtyhAwAAQBAJ&q=chechen+noun+classes&pg=PA8). Routledge. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [9781136802331](https://en.wikipedia.org/wiki/Special:BookSources/9781136802331) – via Google Books.",
+          "26. Wier, Thomas R. (2024). \"\"Whored-out to the KGB\": Defining Obscenities in Georgian and Other Languages of the Caucasus\". [Free University of Tbilisi](https://en.wikipedia.org/wiki/Free_University_of_Tbilisi). p. 17 (A116). [doi](https://en.wikipedia.org/wiki/Doi_(identifier)):[10.6092/issn.1974-4382/20538](https://doi.org/10.6092%2Fissn.1974-4382%2F20538).{{[cite web](https://en.wikipedia.org/wiki/Template:Cite_web)}}:Missing or empty |url= ([help](https://en.wikipedia.org/wiki/Help:CS1_errors#cite_web_url))",
+          "27. \"estudiante\". [*Estudiante | Diccionario de la lengua española*](https://dle.rae.es/estudiante). *Diccionario de la lengua española* (in Spanish) (23.7 ed.). [Real Academia Española](https://en.wikipedia.org/wiki/Real_Academia_Española). November 2023. Retrieved 2024-05-10.",
+          "28. Dotton, Zura; Wagner, John Doyle. [\"A Grammar of Chechen\"](https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/file-attachments/chechen-grammar.original.pdf) (PDF). Duke University, Slavic Centers. Retrieved 10 June 2020."
+        ]
+      ]
+    },
+    {
+      "id": 27,
+      "heading": "Sources",
+      "content": [
+        "Muysken, Pieter (6 February 2008). [*From Linguistic Areas to Areal Linguistics*](https://books.google.com/books?id=FWs6AAAAQBAJ&pg=PA29). John Benjamins Publishing Company. pp. 29, 46, 47, 49, 52–54, 56, 58, 60, 61, 63, 70–74, 77, 93. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-90-272-9136-3](https://en.wikipedia.org/wiki/Special:BookSources/978-90-272-9136-3)."
+      ]
+    },
+    {
+      "id": 28,
+      "heading": "External links",
+      "content": [
+        "[icon](https://en.wikipedia.org/wiki/File:Globe_of_letters.svg)[Language portal](https://en.wikipedia.org/wiki/Portal:Language)",
+        [
+          "[Appendix:Cyrillic script](https://en.wiktionary.org/wiki/Appendix:Cyrillic%20script)",
+          "[The Chechen language | Noxchiin mott](https://linguistics.berkeley.edu/~chechen/) Wealth of linguistic information. (No longer active, some information is retained)",
+          "[Rferl North Caucasus Radio (also includes Avar and Adyghe)](https://www.radiomarsho.com/)",
+          "[Chechen basic lexicon at the Global Lexicostatistical Database](http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\\ncc\\nah&limit=-1)",
+          "Historic primer for Chechen Arabic Script [Чеченская азбука - نوٓخچیی آلفبٰا (Нохчий алфба)] (1925) [https://archive.org/details/chechen-abat/page/n27/mode/2up](https://archive.org/details/chechen-abat/page/n27/mode/2up)",
+          "ELAR archive of [Chechen including the Cheberloi dialect](http://elar.soas.ac.uk/deposit/0232)",
+          "[Chechen Text Corpus](https://baltoslav.eu/nox/index.php?mova=en)"
+        ]
+      ]
+    }
+  ]
+}
