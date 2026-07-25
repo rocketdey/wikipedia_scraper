@@ -1,4 +1,3 @@
-# a `Page` class — owns fetching a URL, running `TagScraper`, and building/saving the result hash
 require 'httparty'
 require 'nokogiri'
 require 'json'
@@ -80,13 +79,13 @@ module WikipediaScraper
       end
     end
 
-    def simplify_array(obj)
-      return obj unless obj.is_a?(Array)
+    def simplify_array(item)
+      return item unless item.is_a?(Array)
 
-      if obj.size == 1
-        simplify_array(obj.first)
+      if item.size == 1
+        simplify_array(item.first)
       else
-        obj.map { |e| simplify_array(e) }
+        item.map { |i| simplify_array(i) }
       end
     end
   end

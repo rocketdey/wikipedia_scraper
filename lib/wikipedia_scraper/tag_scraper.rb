@@ -1,6 +1,3 @@
-# the `TagScraper` module — pure HTML→markdown/array conversion logic, no I/O
-require 'nokogiri'
-
 module TagScraper
 
   def self.scrape(element)
@@ -53,7 +50,7 @@ module TagScraper
           self.scrape(child)
         end.compact
       end
-    when "style", "figure"
+    when "style", "figure", "sup"
       nil
     else
       if !element.children.empty?
@@ -73,9 +70,13 @@ module TagScraper
       when 'text'
         content = element.content.gsub(/\s+/, ' ')
         return content.strip.empty? ? nil : content
+      when "ol", "ul"
+        return parse_list(element).join(', ')
       end
 
-      inner = element.children.map { |node| markdown_node(node) }.join.strip.gsub(/\s+/, ' ').sub(/,\s*\z/, '')
+      inner = element.children.map { |node| markdown_node(node) }.join
+      inner = inner.gsub(/\s+/, ' ')
+      inner = inner.strip unless inner == ' '
 
       case element.name
       when "b"
@@ -92,15 +93,18 @@ module TagScraper
 
   def self.markdown_node(node)
 
+    return '' if node.classes.any? { |c| ['mw-cite-backlink', 'noprint'].include?(c) }
+
     case node.name
     when "text"
       node.content
     when "br"
       ' '
-    when "li"
-      "#{to_markdown(node)}, "
+    when "span"
+      to_markdown(node)
     when "sup"
-      node.at_css('a').nil? ? node.content : parse_anchor(node.at_css('a'))
+      return nil if node['style'] == "display:none;"
+      node.at_css('a').nil? ? to_markdown(node) : parse_anchor(node.at_css('a'))
     when "style"
       nil
     else

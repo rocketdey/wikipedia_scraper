@@ -201,9 +201,9 @@ RSpec.describe TagScraper do
       HTML
       node = element_from(html, 'ol')
       expect(TagScraper.parse_list(node)).to eq([
-        "1. [\"Applying Pressure ft. Dreamville Records President, Ibrahim Hamad - Say Less w/ Kaz, Low Key, & Rosy\"](https://www.youtube.com/watch?v=2jivieOJAvU&feature=emb_title). May 24, 2021. Retrieved May 25 2021 – via [YouTube](https://en.wikipedia.org/wiki/YouTube).",
-        "2. [\"This year marked the return of some of hip-hop's biggest giants, but only one took home the crown on 2021's year's best hip-hop album list\"](https://www.billboard.com/lists/best-rap-albums-hip-hop-2021/j-cole-the-offseason/). *[Billboard](https://en.wikipedia.org/wiki/Billboard_(magazine))*. December 20, 2021. Retrieved January 14 2022.",
-        "3. JColeNC (May 14, 2021). [\"Took years to reach this form. The Off-Season. My new album. Available now\"](https://twitter.com/JColeNC/status/1393053698201296896). Retrieved June 6 2021 – via [Twitter](https://en.wikipedia.org/wiki/Twitter)."
+        "1. [\"Applying Pressure ft. Dreamville Records President, Ibrahim Hamad - Say Less w/ Kaz, Low Key, & Rosy\"](https://www.youtube.com/watch?v=2jivieOJAvU&feature=emb_title). May 24, 2021. Retrieved May 25, 2021 – via [YouTube](https://en.wikipedia.org/wiki/YouTube).",
+        "2. [\"This year marked the return of some of hip-hop's biggest giants, but only one took home the crown on 2021's year's best hip-hop album list\"](https://www.billboard.com/lists/best-rap-albums-hip-hop-2021/j-cole-the-offseason/). *[Billboard](https://en.wikipedia.org/wiki/Billboard_(magazine))*. December 20, 2021. Retrieved January 14, 2022.",
+        "3. JColeNC (May 14, 2021). [\"Took years to reach this form. The Off-Season. My new album. Available now\"](https://twitter.com/JColeNC/status/1393053698201296896). Retrieved June 6, 2021 – via [Twitter](https://en.wikipedia.org/wiki/Twitter)."
       ])
     end
   end

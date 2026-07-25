@@ -1,4 +1,3 @@
-# RSpec boilerplate/config — loaded by every spec file, sets up `require 'wikipedia_scraper'` oncerequire 'wikipedia_scraper'
 require 'json'
 
 RSpec.configure do |config|
@@ -13,18 +12,14 @@ RSpec.configure do |config|
   Kernel.srand config.seed
 end
 
-# Reads a fixture file (HTML or JSON) as raw text.
 def fixture(name)
   File.read(File.join(__dir__, 'fixtures', name))
 end
 
-# Parses a fixture JSON file, with symbol keys (matches your code's :label, :content, etc.)
 def fixture_json(name)
   JSON.parse(fixture(name), symbolize_names: true)
 end
 
-# Builds a Nokogiri element from a small HTML snippet, for unit tests.
-# Pass a CSS selector to grab a specific element out of the fragment.
 def element_from(html, selector = nil)
   fragment = Nokogiri::HTML.fragment(html)
   selector ? fragment.at_css(selector) : fragment.children.find(&:element?)

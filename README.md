@@ -29,7 +29,7 @@ Unlike traditional scrapers that simply extract plain text, this project preserv
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wikipedia_scraper.git
+git clone https://github.com/rocketdey/wikipedia_scraper.git
 cd wikipedia_scraper
 ```
 
@@ -39,21 +39,29 @@ Install dependencies:
 bundle install
 ```
 
----
+### Gem installation
+
+```bash
+gem install wikipedia_scraper
+```
 
 ## Usage
 
 ### Command Line
 
 ```bash
-bundle exec exe/wikipedia_scraper https://en.wikipedia.org/wiki/Alan_Turing output/
+wikipedia_scraper # This will scrape https://en.wikipedia.org/wiki/special:random to current dir
+```
+
+```bash
+wikipedia_scraper https://en.wikipedia.org/wiki/Apple_Inc. ./output/
 ```
 
 This will create
 
 ```
 output/
-└── Alan_Turing.json
+└── Apple_Inc..json
 ```
 
 ---
@@ -221,11 +229,14 @@ lib/
         version.rb
     wikipedia_scraper.rb
 
-output/
-
 spec/
     fixtures/
-      tag_scraper_spec.rb
+      Chechen_language.html
+      Chechen_language.json
+      Dzhokhar_Dudayev.html
+      Dzhokhar_Dudayev.json
+      The_Off-Season.html
+      The_Off-Season.json
     page_spec.rb
     spec_helper.rb
     tag_scraper_spec.rb
@@ -278,6 +289,7 @@ rake spec
 
 - Infobox parsing is currently disabled.
 - Templates and navigation boxes are intentionally ignored.
+- There may be unknown errors since this library is a WIP (Work in Progress).
 
 ---
 
