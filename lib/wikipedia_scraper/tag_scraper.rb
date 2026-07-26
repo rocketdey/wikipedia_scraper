@@ -1,6 +1,7 @@
 module TagScraper
 
   def self.scrape(element)
+    return nil if element.nil? || element.classes.any? { |c| ['mw-cite-backlink', 'noprint'].include?(c) }
     case element.name
     when "p", "a", "i", "b", "br", "span"
       to_markdown(element)

@@ -22,7 +22,7 @@ module WikipediaScraper
 
     def self.fetch(url)
       response = HTTParty.get(url, headers: HEADERS)
-      doc = Nokogiri::HTML(response)
+      doc = Nokogiri::HTML(response.body)
       raise "Failed to parse #{url} as HTML" unless doc.html?
 
       new(doc)
