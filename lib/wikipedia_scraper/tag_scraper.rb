@@ -47,9 +47,18 @@ module TagScraper
       if element.classes.include?('hatnote')
         to_markdown(element)
       else
-        element.children.map do |child|
-          self.scrape(child)
-        end.compact
+        result = []
+        text_inside_div = ''
+        element.children.each do |child|
+          if ["p", "a", "i", "b", "br", "span", "text"].include?(child.name)
+            text_inside_div << (to_markdown(child) || '')
+          else
+            result << text_inside_div.strip && text_inside_div = '' unless text_inside_div.strip.empty?
+            result << self.scrape(child)
+          end
+        end
+        result << text_inside_div.strip unless text_inside_div.strip.empty?
+        result.compact
       end
     when "style", "figure", "sup"
       nil

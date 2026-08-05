@@ -86,101 +86,179 @@ page.save_json("./output")
 
 ```json
 {
-  "title": "Dzhokhar Dudayev",
-  "short_description": "First President of the Chechen Republic of Ichkeria",
-  "url": "https://en.wikipedia.org/wiki/Dzhokhar_Dudayev",
+  "title": "David Chase",
+  "short_description": "American writer, director and producer (born 1945)",
+  "url": "https://en.wikipedia.org/wiki/David_Chase",
   "sections": [
     {
       "id": 0,
       "heading": null,
       "content": [
-        "**Dzhokhar Musayevich Dudayev** (born **Dudin Musa-Khant Dzhokhar**;[a][b] 15 February 1944 – 21 April 1996) was a Chechen politician, revolutionary and military leader of the 1990s Chechen independence movement from Russia...",
-        ...
+        "**David Henry Chase**[1][2] (born August 22, 1945) is an American writer, producer, and director. ..."
       ]
     },
     {
       "id": 1,
-      "heading": "Early life and military career",
+      "heading": "Early life",
       "content": [
-        "Dudayev was born in [Yalkhoroy](https://en.wikipedia.org/wiki/Yalkhoroy) from the Tsechoy [teip](https://en.wikipedia.org/wiki/Teip) in the [Checheno-Ingush Autonomous Soviet Socialist Republic](https://en.wikipedia.org/wiki/Checheno-Ingush_Autonomous_Soviet_Socialist_Republic) (ASSR)...",
-        ...
+        "Chase was born as an only child to Norma ([née](https://en.wikipedia.org/wiki/Birth_name#Maiden_and_married_names) Bucco) and Enrico \"Henry\" Chase, both born in 1908 and hailing from Italian-American working-class families. ..."
+        {
+          "id": 2,
+          "heading": "Mental health and education",
+          "content": [
+            "Chase struggled with [panic attacks](https://en.wikipedia.org/wiki/Panic_attacks) and [clinical depression](https://en.wikipedia.org/wiki/Clinical_depression) as a teenager, something that he dealt with into adulthood. ..."
+          ]
+        }
       ]
     },
-    ...
     {
-      "id": 6,
-      "heading": "Commemoration",
+      "id": 3,
+      "heading": "Career",
       "content": [
-        "There is a memorial plaque made of granite attached to the house on 8 [Ülikooli street](https://en.wikipedia.org/wiki/Ülikooli_street), [Tartu](https://en.wikipedia.org/wiki/Tartu), Estonia, in which Dudayev used to work.[18] The house now hosts Hotel Barclay, and the former office of Dudayev has been converted into Dudayev's Room.[19]",
-        "Places named in honor of Dudayev include:",
-        [
-          " [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) – There is a street in the Georgian capital [Tbilisi](https://en.wikipedia.org/wiki/Tbilisi) named after Dzokhar Dudayev.[20]",
-          " [Latvia](https://en.wikipedia.org/wiki/Latvia) – In 1996, a street in the Latvian capital [Riga](https://en.wikipedia.org/wiki/Riga) was named **Džohara Dudajeva gatve** (Dzhokhar Dudaev Street). In the light of the upcoming Parliamentary elections in Latvia, several initiatives have been undertaken to lobby for the renaming or preserving the name of the street by pro-Russian and [anti-Russian](https://en.wikipedia.org/wiki/Russophobia#Latvia) political parties respectively.[21][22]",
-          " [Lithuania](https://en.wikipedia.org/wiki/Lithuania) – **Džocharo Dudajevo skveras** (Dzhokhar Dudaev Square) in the [Žvėrynas](https://en.wikipedia.org/wiki/Žvėrynas) district of [Vilnius](https://en.wikipedia.org/wiki/Vilnius).[23]",
-          " [Poland](https://en.wikipedia.org/wiki/Poland) – On 17 March 2005, a [roundabout](https://en.wikipedia.org/wiki/Roundabout) in the Polish capital [Warsaw](https://en.wikipedia.org/wiki/Warsaw) was named **Rondo Dżochara Dudajewa** (Dzhokhar Dudayev Roundabout).[24]",
-          " [Turkey](https://en.wikipedia.org/wiki/Turkey) – After Dudayev's death, various locations in Turkey were renamed after him, such as **Şehit Cahar Dudayev Caddesi** (Martyr Dzhokhar Dudayev Avenue) and **Şehit Cahar Dudayev Parkı** (Martyr Dzhokhar Dudayev Park) in Istanbul/Ataşehir-Örnek, **Cahar Dudayev Meydanı** (Dzhokhar Dudayev Square) in [Ankara](https://en.wikipedia.org/wiki/Ankara), **Şehit Cahar Dudayev Parkı** (Martyr Dzhokhar Dudaev Park) in Adapazarı, [Sakarya](https://en.wikipedia.org/wiki/Sakarya_Province) and **Şehit Cevher Dudayev Parkı** in [Sivas](https://en.wikipedia.org/wiki/Sivas).[25]",
-          " [Ukraine](https://en.wikipedia.org/wiki/Ukraine) – In 1996, a street in [Lviv](https://en.wikipedia.org/wiki/Lviv) was named *вулиця Джохара Дудаєва* (Dzhokhar Dudayev Street)..."
-        ],
-        [
-          [
-            "https://en.wikipedia.org/wiki/File:Dzokhar_Dudayev_monument_Vilnius.jpg",
-            "Dzhokhar Dudayev Monument in Vilnius, Lithuania."
-          ],
-          [
-            "https://en.wikipedia.org/wiki/File:Džohara_Dudajeva_gatve.jpg",
-            "House number on *Dzhokhar Dudayev avenue* in Riga, Latvia."
-          ],
-          [
-            "https://en.wikipedia.org/wiki/File:Dzhokhar_Dudayev_roundabout.jpg",
-            "Dzhokhar Dudayev Roundabout in Warsaw, Poland."
-          ],
-          [
-            "https://en.wikipedia.org/wiki/File:Початок_вулиці_Д._Дудаєва.jpg",
-            "Dzhokhar Dudayev Street in Ivano-Frankivsk, Ukraine."
-          ],
-          [
-            "https://en.wikipedia.org/wiki/File:Vilnius_-_Dudayev_Square.jpg",
-            "Dzhokhar Dudayev Square in Vilnius, Lithuania."
-          ],
-          [
-            "https://en.wikipedia.org/wiki/File:Galeria_czeczeńska_mural.jpg",
-            "*Chechen Gallery* murals in Warsaw, Poland. Dzhokhar Dudayev on the left."
+        "Chase started in Hollywood as a [story editor](https://en.wikipedia.org/wiki/Story_editor) for *[Kolchak: The Night Stalker](https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker)* and then produced episodes of *[The Rockford Files](https://en.wikipedia.org/wiki/The_Rockford_Files)* and *[Northern Exposure](https://en.wikipedia.org/wiki/Northern_Exposure)*, among other series. ...",
+        {
+          "id": 4,
+          "heading": "*The Sopranos*",
+          "content": [
+            "Chase worked in relative anonymity before *[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* debuted.[11] The story of *The Sopranos* was initially conceived as a feature film about \"a mobster in therapy having problems with his mother\".[23] Chase got some input from his manager [Lloyd Braun](https://en.wikipedia.org/wiki/Lloyd_Braun_(media_executive)) and decided to adapt it into a television series.[23] ..."
+            [
+              "*The Sopranos* credits",
+              [
+                "Writer",
+                [
+                  "\"[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos_(pilot_episode))\" *(episode 1.01)*",
+                  "\"[46 Long](https://en.wikipedia.org/wiki/46_Long)\" *(episode 1.02)*",
+                  "..."
+                ],
+                "Director",
+                [
+                  "\"[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos_(pilot_episode))\" *(episode 1.01)*",
+                  "\"[Made in America](https://en.wikipedia.org/wiki/Made_in_America_(The_Sopranos))\" *(episode 6.21)*"
+                ],
+                "Actor",
+                "Chase appeared as a man sitting at an outdoor cafe in [Naples](https://en.wikipedia.org/wiki/Naples), Italy smoking a cigarette in the season two episode \"[Commendatori](https://en.wikipedia.org/wiki/Commendatori)\". He also appeared as an airline passenger en route to Italy in season six's \"[Luxury Lounge](https://en.wikipedia.org/wiki/Luxury_Lounge)\". His voice was also used over the phone in the episode \"The Test Dream\"."
+              ]
+            ]
           ]
-        ]
+        },
+        {
+          "id": 5,
+          "heading": "*Not Fade Away*",
+          "content": [
+            "*[Not Fade Away](https://en.wikipedia.org/wiki/Not_Fade_Away_(film))* (2012), Chase's feature film debut, was released on December 21, 2012. It centers on the lead singer of a teenage [rock 'n' roll](https://en.wikipedia.org/wiki/Rock_and_roll) band (played by [John Magaro](https://en.wikipedia.org/wiki/John_Magaro)) in 1960s New Jersey.[38][39] ..."
+          ]
+        },
+        {
+          "id": 6,
+          "heading": "*The Many Saints of Newark*",
+          "content": [
+            "Although Chase was \"against [the movie] for a long time\",[41] *[Deadline Hollywood](https://en.wikipedia.org/wiki/Deadline_Hollywood)* reported in March 2018 that [New Line Cinema](https://en.wikipedia.org/wiki/New_Line_Cinema) had purchased the script for *[The Many Saints of Newark](https://en.wikipedia.org/wiki/The_Many_Saints_of_Newark)* ..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "Unrealized projects",
+      "content": [
+        {
+          "id": 8,
+          "heading": "*A Ribbon of Dreams*",
+          "content": [
+            "Chase has previously developed *A Ribbon of Dreams*, a [miniseries](https://en.wikipedia.org/wiki/Miniseries) for HBO. According to an HBO [press release](https://en.wikipedia.org/wiki/Press_release), the series' pilot would \"begin in 1913 and follow two men, one a college-educated mechanical engineer, the other a cowboy with a violent past, ..."
+          ]
+        }
       ]
     },
     {
       "id": 9,
-      "heading": "References",
+      "heading": "Personal life",
       "content": [
-        "1994–1998 [Encyclopædia Britannica](https://en.wikipedia.org/wiki/Encyclopædia_Britannica)",
-        [
-          "1. [\"Конец мятежного генерала Джохара Дудаева\"](https://www.km.ru/news/konecz_myatezhnogo_generala_dzho). *KM.RU Новости – новости дня, новости России, последние новости и комментарии*. 2010.",
-          "2. [Milyon Birinci – Cahar Dudayev](https://www.gzt.com/mecra/milyon-birinci-cahar-dudayev-3401067) (in Turkish)",
-          "3. Dunlop, John (1998). [*Russia Confronts Chechnya: Roots of a Separatist Conflict*](https://books.google.com/books?id=AxwpDAAAQBAJ). Cambridge University Press. pp. 97–98. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [9780521636193](https://en.wikipedia.org/wiki/Special:BookSources/9780521636193).",
-          ...
-        ]
+        "After graduating from NYU in 1968, Chase moved to California and married his high school sweetheart Denise Kelly.[11] He is the father of actress Michele DeCesare, who appeared in six of *The Sopranos* episodes as [Hunter Scangarelo](https://en.wikipedia.org/wiki/Hunter_Scangarelo).[49]",
+        "..."
       ]
     },
     {
       "id": 10,
-      "heading": "Sources",
+      "heading": "Select filmography",
       "content": [
-        "Khaustov, V. N. (2007). [\"ДУДА́ЕВ ДЖОХАР МУСАЕВИЧ\"](https://old.bigenc.ru/domestic_history/text/3822404) [DUDÁYEV DZHOKHAR MUSAYEVICH]..."
+        {
+          "id": 11,
+          "heading": "Television",
+          "content": [
+            [
+              [
+                "Year",
+                "Title",
+                "Director",
+                "Writer",
+                "Producer",
+                "Creator",
+                "Notes"
+              ],
+              [
+                "1971",
+                "*[The Bold Ones: The Lawyers](https://en.wikipedia.org/wiki/The_Bold_Ones:_The_Lawyers)*",
+                "No",
+                "Yes",
+                "No",
+                "No",
+                "Episode: \"In Defense of Ellen McKay\""
+              ],
+              "..."
+            ]
+          ]
+        },
+        {
+          "id": 12,
+          "heading": "Film",
+          "content": [
+            "..."
+          ]
+        },
+        {
+          "id": 13,
+          "heading": "Other credits",
+          "content": [
+            "..."
+          ]
+        }
       ]
     },
     {
-      "id": 11,
-      "heading": "External links",
+      "id": 14,
+      "heading": "Awards and recognition",
       "content": [
-        "[Wikimedia Commons logo](https://en.wikipedia.org/wiki/File:Commons-logo.svg)Media related to[Dzhokhar Dudayev](https://commons.wikimedia.org/wiki/Category:Dzhokhar%20Dudayev)at Wikimedia Commons"
+        "..."
       ]
     },
     {
-      "id": 12,
+      "id": 15,
       "heading": "See also",
       "content": [
-        "[Russism](https://en.wikipedia.org/wiki/Rashism), his description of the [state ideology](https://en.wikipedia.org/wiki/State_ideology) of the [Russian Federation](https://en.wikipedia.org/wiki/Russian_Federation), which he made during the [First Chechen War](https://en.wikipedia.org/wiki/First_Chechen_War). Since then many scholars, publicists, politicians have built upon his concept."
+        "[List of Primetime Emmy Award winners](https://en.wikipedia.org/wiki/List_of_Primetime_Emmy_Award_winners)"
+      ]
+    },
+    {
+      "id": 16,
+      "heading": "References",
+      "content": [
+        [
+          "1. Chase says his name was not David DeCesare at birth in this interview: [https://interviews.televisionacademy.com/interviews/david-chase#](https://interviews.televisionacademy.com/interviews/david-chase#) [Archived](https://web.archive.org/web/20190331030349/https://interviews.televisionacademy.com/interviews/david-chase)March 31, 2019, at the[Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)",
+          "2. Fleming, Mike Jr. (September 7, 2021). [\"David Chase On Reviving 'Sopranos' Spirit With 'The Many Saints Of Newark' And High Interest In Another Prequel Film\"](https://deadline.com/2021/09/david-chase-sopranos-revival-the-many-saints-of-newark-disdain-day-date-bow-interested-in-another-prequel-film-1234828184/). *Deadline*. Retrieved September 8, 2021.",
+          "3. *[Wise Guy: David Chase and the Sopranos](https://en.wikipedia.org/wiki/Wise_Guy:_David_Chase_and_the_Sopranos)*",
+          "..."
+        ]
+      ]
+    },
+    {
+      "id": 17,
+      "heading": "External links",
+      "content": [
+        [
+          "[David Chase](https://www.imdb.com/name/nm0153740/)at[IMDb](https://en.wikipedia.org/wiki/IMDb_(identifier))",
+          "[David Chase](https://interviews.televisionacademy.com/interviews/david-chase)at[The Interviews: An Oral History of Television](https://en.wikipedia.org/wiki/The_Interviews:_An_Oral_History_of_Television)"
+        ]
       ]
     }
   ]
@@ -221,8 +299,8 @@ spec/
     fixtures/
       Chechen_language.html
       Chechen_language.json
-      Dzhokhar_Dudayev.html
-      Dzhokhar_Dudayev.json
+      David_Chase.html
+      David_Chase.json
       The_Off-Season.html
       The_Off-Season.json
     page_spec.rb

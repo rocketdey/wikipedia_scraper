@@ -1,7 +1,7 @@
 require 'wikipedia_scraper'
 
 RSpec.describe WikipediaScraper::Page do
-  %w[Chechen_language Dzhokhar_Dudayev The_Off-Season].each do |html_name|
+  %w[Chechen_language David_Chase The_Off-Season].each do |html_name|
     context "scraping #{html_name}" do
       let(:doc) {Nokogiri::HTML(fixture("#{html_name}.html"))}
       let(:scraped_html) {described_class.new(doc)}

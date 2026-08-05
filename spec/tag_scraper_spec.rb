@@ -141,7 +141,8 @@ RSpec.describe TagScraper do
             [
               "Various",
               "May 14, 2021",
-              "[digital download](https://en.wikipedia.org/wiki/Music_download), [streaming](https://en.wikipedia.org/wiki/Streaming_media)","[Dreamville](https://en.wikipedia.org/wiki/Dreamville_Records), [Roc Nation](https://en.wikipedia.org/wiki/Roc_Nation), [Interscope](https://en.wikipedia.org/wiki/Interscope_Records)",
+              "[digital download](https://en.wikipedia.org/wiki/Music_download), [streaming](https://en.wikipedia.org/wiki/Streaming_media)",
+              "[Dreamville](https://en.wikipedia.org/wiki/Dreamville_Records), [Roc Nation](https://en.wikipedia.org/wiki/Roc_Nation), [Interscope](https://en.wikipedia.org/wiki/Interscope_Records)",
               "[23]"
             ],
             [
@@ -204,6 +205,86 @@ RSpec.describe TagScraper do
         "1. [\"Applying Pressure ft. Dreamville Records President, Ibrahim Hamad - Say Less w/ Kaz, Low Key, & Rosy\"](https://www.youtube.com/watch?v=2jivieOJAvU&feature=emb_title). May 24, 2021. Retrieved May 25, 2021 – via [YouTube](https://en.wikipedia.org/wiki/YouTube).",
         "2. [\"This year marked the return of some of hip-hop's biggest giants, but only one took home the crown on 2021's year's best hip-hop album list\"](https://www.billboard.com/lists/best-rap-albums-hip-hop-2021/j-cole-the-offseason/). *[Billboard](https://en.wikipedia.org/wiki/Billboard_(magazine))*. December 20, 2021. Retrieved January 14, 2022.",
         "3. JColeNC (May 14, 2021). [\"Took years to reach this form. The Off-Season. My new album. Available now\"](https://twitter.com/JColeNC/status/1393053698201296896). Retrieved June 6, 2021 – via [Twitter](https://en.wikipedia.org/wiki/Twitter)."
+      ])
+    end
+  end
+
+  describe 'scraping div' do
+    it 'extracts the list and text elements in div correctly' do
+      html = <<~HTML
+        <div class="hidden-begin mw-collapsible mw-collapsed" style="" about="#mwt129" id="mwAWg">
+          <div class="hidden-title skin-nightmode-reset-color" style="text-align: center"><i>The Sopranos</i> credits</div>
+          <div class="hidden-content mw-collapsible-content" style="">
+            <dl><dt>Writer</dt></dl>
+            <ul>
+              <li>
+                "<a
+                  rel="mw:WikiLink"
+                  href="https://en.wikipedia.org/wiki/The_Sopranos_(pilot_episode)"
+                  title="The Sopranos (pilot episode)"
+                  class="mw-redirect"
+                  >The Sopranos</a
+                >" <i>(episode 1.01)</i>
+              </li>
+              <li>
+                "<a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/46_Long" title="46 Long">46 Long</a>"
+                <i>(episode 1.02)</i>
+              </li>
+            </ul>
+            <dl><dt>Director</dt></dl>
+            <ul>
+              <li>
+                "<a
+                  rel="mw:WikiLink"
+                  href="https://en.wikipedia.org/wiki/The_Sopranos_(pilot_episode)"
+                  title="The Sopranos (pilot episode)"
+                  class="mw-redirect"
+                  >The Sopranos</a
+                >" <i>(episode 1.01)</i>
+              </li>
+              <li>
+                "<a
+                  rel="mw:WikiLink"
+                  href="https://en.wikipedia.org/wiki/Made_in_America_(The_Sopranos)"
+                  title="Made in America (The Sopranos)"
+                  >Made in America</a
+                >" <i>(episode 6.21)</i>
+              </li>
+            </ul>
+            <dl><dt>Actor</dt></dl>
+            Chase appeared as a man sitting at an outdoor cafe in
+            <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Naples" title="Naples">Naples</a>, Italy smoking a
+            cigarette in the season two episode "<a
+              rel="mw:WikiLink"
+              href="https://en.wikipedia.org/wiki/Commendatori"
+              title="Commendatori"
+              >Commendatori</a
+            >". He also appeared as an airline passenger en route to Italy in season six's "<a
+              rel="mw:WikiLink"
+              href="https://en.wikipedia.org/wiki/Luxury_Lounge"
+              title="Luxury Lounge"
+              >Luxury Lounge</a
+            >". His voice was also used over the phone in the episode "The Test Dream".
+          </div>
+        </div>
+      HTML
+      node = element_from(html, 'div')
+      expect(simplify_array(TagScraper.scrape(node))).to eq([
+        "*The Sopranos* credits",
+        [
+          "Writer",
+          [
+            "\"[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos_(pilot_episode))\" *(episode 1.01)*",
+            "\"[46 Long](https://en.wikipedia.org/wiki/46_Long)\" *(episode 1.02)*"
+          ],
+          "Director",
+          [
+            "\"[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos_(pilot_episode))\" *(episode 1.01)*",
+            "\"[Made in America](https://en.wikipedia.org/wiki/Made_in_America_(The_Sopranos))\" *(episode 6.21)*"
+          ],
+          "Actor",
+          "Chase appeared as a man sitting at an outdoor cafe in [Naples](https://en.wikipedia.org/wiki/Naples), Italy smoking a cigarette in the season two episode \"[Commendatori](https://en.wikipedia.org/wiki/Commendatori)\". He also appeared as an airline passenger en route to Italy in season six's \"[Luxury Lounge](https://en.wikipedia.org/wiki/Luxury_Lounge)\". His voice was also used over the phone in the episode \"The Test Dream\"."
+        ]
       ])
     end
   end

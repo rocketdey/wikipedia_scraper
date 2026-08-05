@@ -24,3 +24,8 @@ def element_from(html, selector = nil)
   fragment = Nokogiri::HTML.fragment(html)
   selector ? fragment.at_css(selector) : fragment.children.find(&:element?)
 end
+
+def simplify_array(item)
+  return item unless item.is_a?(Array)
+  item.size == 1 ? simplify_array(item.first) : item.map { |i| simplify_array(i) }
+end

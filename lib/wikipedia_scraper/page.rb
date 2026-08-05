@@ -81,12 +81,7 @@ module WikipediaScraper
 
     def simplify_array(item)
       return item unless item.is_a?(Array)
-
-      if item.size == 1
-        simplify_array(item.first)
-      else
-        item.map { |i| simplify_array(i) }
-      end
+      item.size == 1 ? simplify_array(item.first) : item.map { |i| simplify_array(i) }
     end
   end
 end
