@@ -147,17 +147,17 @@ RSpec.describe TagScraper do
             ],
             [
               "Various",
+              "July 16, 2021",
               "[CD](https://en.wikipedia.org/wiki/Compact_disc)",
-              "[122]",
               "[Dreamville](https://en.wikipedia.org/wiki/Dreamville_Records), [Roc Nation](https://en.wikipedia.org/wiki/Roc_Nation), [Interscope](https://en.wikipedia.org/wiki/Interscope_Records)",
-              nil
+              "[122]"
             ],
             [
               "Various",
+              "August 27, 2021",
               "[Vinyl LP](https://en.wikipedia.org/wiki/Phonograph_record)",
-              "[122]",
               "[Dreamville](https://en.wikipedia.org/wiki/Dreamville_Records), [Roc Nation](https://en.wikipedia.org/wiki/Roc_Nation), [Interscope](https://en.wikipedia.org/wiki/Interscope_Records)",
-              nil
+              "[122]"
             ]
           ])
       end

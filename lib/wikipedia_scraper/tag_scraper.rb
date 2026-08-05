@@ -1,7 +1,7 @@
 module TagScraper
 
   def self.scrape(element)
-    return nil if element.nil? || element.classes.any? { |c| ['mw-cite-backlink', 'noprint'].include?(c) }
+    return nil if element.nil? || element.classes.any? { |c| ['mw-cite-backlink', 'noprint'].include?(c) } || (!element.children.any? && element.text.empty?)
     case element.name
     when "p", "a", "i", "b", "br", "span"
       to_markdown(element)
@@ -137,6 +137,8 @@ module TagScraper
     if img = element.at_css('img')
       if img['alt'] || img['title']
         url_text = img['alt'] || img['title']
+      else
+        return '' if img['src']&.include?('/thumb/')
       end
     end
 
@@ -179,36 +181,42 @@ module TagScraper
       table_caption = to_markdown(element.at_css('caption'))
       table_caption = nil if table_caption&.empty?
       element.css('style').each(&:remove)
-      col_length = rows[0].css('th', 'td').sum { |c| c['colspan'].nil? ? 1 : c['colspan'].to_i}
+      col_length = rows[0].css('th:not([style*="display:none"])', 'td:not([style*="display:none"])').sum { |c| c['colspan'].nil? ? 1 : c['colspan'].to_i}
       table_data = Array.new(rows.length) { Array.new(col_length, nil) }
-      rows.each_with_index do |row_elem, row_index|
-        row = row_elem.css('th', 'td')
+      rows.each_with_index do |row_element, row_index|
+        unless row_element.css('table').empty?
+          table_data = parse_table(row_element.css('table'))
+          break
+        end
+        row = row_element.css('th:not([style*="display:none"])', 'td:not([style*="display:none"])')
         cursor_index = col_index = 0
         while col_index < row.length
           data = row[col_index]
           data_content = to_markdown(data)
           if data_content.is_a?(Array)
             table_data[row_index][cursor_index] << data_content
+          elsif !table_data[row_index][cursor_index].nil?
+            col_index += 1 if data_content.nil? || data_content.empty?
+            cursor_index += 1
+            break if cursor_index > col_length
+            next
           else
-            if !table_data[row_index][cursor_index].nil? || (data_content.nil? || data_content.empty?)
-              cursor_index += 1
-              col_index += 1
-              break if cursor_index > col_length
-              next
-            end
-          end
-          colspan = row[col_index]['colspan'].nil? ? 1 : row[col_index]['colspan'].to_i
-          rowspan = row[col_index]['rowspan'].nil? ? 1 : row[col_index]['rowspan'].to_i
-          (0..colspan - 1).each do |c|
-            (0..rowspan - 1).each do |r|
-              table_data[r + row_index][c + cursor_index] = data_content
+            colspan = row[col_index]['colspan'].nil? ? 1 : row[col_index]['colspan'].to_i
+            rowspan = row[col_index]['rowspan'].nil? ? 1 : row[col_index]['rowspan'].to_i
+            (0..colspan - 1).each do |c|
+              (0..rowspan - 1).each do |r|
+                table_data[r + row_index][c + cursor_index] = data_content
+              end
             end
           end
           cursor_index += colspan
           col_index += 1
         end
       end
-      table_data.reject! {|a| a.all?(nil)}
+      table_data.each do |row|
+        row.map! { |a| a == '' ? nil : a} if row.is_a?(Array)
+      end
+      table_data.reject! { |a| a.all?(nil) || a.empty? }
       table_caption.nil? ? main_tables << table_data : main_tables << [table_caption] + table_data
     end
     main_tables.length > 1 ? main_tables : main_tables[0]

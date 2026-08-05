@@ -68,6 +68,8 @@
             [
               [
                 null,
+                null,
+                null,
                 "[Labial](https://en.wikipedia.org/wiki/Labial_consonant)",
                 "[Labial](https://en.wikipedia.org/wiki/Labial_consonant)",
                 "[Alveolar](https://en.wikipedia.org/wiki/Alveolar_consonant)",
@@ -78,25 +80,23 @@
                 "[Uvular](https://en.wikipedia.org/wiki/Uvular_consonant)",
                 "[Epiglottal](https://en.wikipedia.org/wiki/Epiglottal_consonant)",
                 "[Glottal](https://en.wikipedia.org/wiki/Glottal_consonant)",
-                "[Glottal](https://en.wikipedia.org/wiki/Glottal_consonant)",
-                null,
-                null
+                "[Glottal](https://en.wikipedia.org/wiki/Glottal_consonant)"
               ],
               [
+                null,
+                null,
+                null,
                 "plain",
                 "[phar.](https://en.wikipedia.org/wiki/Pharyngealization)",
                 "plain",
                 "[phar.](https://en.wikipedia.org/wiki/Pharyngealization)",
                 "plain",
                 "[phar.](https://en.wikipedia.org/wiki/Pharyngealization)",
-                "plain",
                 "[Velar](https://en.wikipedia.org/wiki/Velar_consonant)",
                 "[Uvular](https://en.wikipedia.org/wiki/Uvular_consonant)",
                 "[Epiglottal](https://en.wikipedia.org/wiki/Epiglottal_consonant)",
-                null,
-                null,
-                null,
-                null
+                "plain",
+                "[phar.](https://en.wikipedia.org/wiki/Pharyngealization)"
               ],
               [
                 "[Nasal](https://en.wikipedia.org/wiki/Nasal_consonant)",
@@ -133,6 +133,8 @@
               [
                 "[Plosive](https://en.wikipedia.org/wiki/Plosive_consonant)",
                 "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "[fortis](https://en.wikipedia.org/wiki/Fortis_consonant)",
+                "[pː](https://en.wikipedia.org/wiki/Voiceless_bilabial_plosive)",
                 "[pˤː](https://en.wikipedia.org/wiki/Pharyngealization)",
                 "[tː](https://en.wikipedia.org/wiki/Voiceless_alveolar_plosive)",
                 "[tˤː](https://en.wikipedia.org/wiki/Pharyngealization)",
@@ -142,12 +144,12 @@
                 "[qː](https://en.wikipedia.org/wiki/Voiceless_uvular_plosive)",
                 null,
                 null,
-                null,
-                null,
                 null
               ],
               [
                 "[Plosive](https://en.wikipedia.org/wiki/Plosive_consonant)",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
                 "[b](https://en.wikipedia.org/wiki/Voiced_bilabial_plosive)",
                 "[bˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
                 "[d](https://en.wikipedia.org/wiki/Voiced_alveolar_plosive)",
@@ -158,12 +160,12 @@
                 null,
                 null,
                 null,
-                null,
-                null,
                 null
               ],
               [
                 "[Plosive](https://en.wikipedia.org/wiki/Plosive_consonant)",
+                "[ejective](https://en.wikipedia.org/wiki/Ejective_consonant)",
+                "[ejective](https://en.wikipedia.org/wiki/Ejective_consonant)",
                 "[pʼ](https://en.wikipedia.org/wiki/Bilabial_ejective_stop)",
                 null,
                 "[tʼ](https://en.wikipedia.org/wiki/Alveolar_ejective_stop)",
@@ -172,8 +174,6 @@
                 null,
                 "[kʼ](https://en.wikipedia.org/wiki/Velar_ejective_stop)",
                 "[qʼ](https://en.wikipedia.org/wiki/Uvular_ejective_stop)",
-                null,
-                null,
                 null,
                 null,
                 null
@@ -197,6 +197,8 @@
               [
                 "[Affricate](https://en.wikipedia.org/wiki/Affricate_consonant)",
                 "[voiceless](https://en.wikipedia.org/wiki/Voicelessness)",
+                "[fortis](https://en.wikipedia.org/wiki/Fortis_consonant)",
+                null,
                 null,
                 "[tsː](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)",
                 "[tsˤː](https://en.wikipedia.org/wiki/Pharyngealization)",
@@ -206,12 +208,12 @@
                 null,
                 null,
                 null,
-                null,
-                null,
                 null
               ],
               [
                 "[Affricate](https://en.wikipedia.org/wiki/Affricate_consonant)",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
                 null,
                 null,
                 "[dz](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)",
@@ -222,19 +224,17 @@
                 null,
                 null,
                 null,
-                null,
-                null,
                 null
               ],
               [
                 "[Affricate](https://en.wikipedia.org/wiki/Affricate_consonant)",
+                "[ejective](https://en.wikipedia.org/wiki/Ejective_consonant)",
+                "[ejective](https://en.wikipedia.org/wiki/Ejective_consonant)",
                 null,
                 null,
                 "[tsʼ](https://en.wikipedia.org/wiki/Alveolar_ejective_affricate)",
                 null,
                 "[tʃʼ](https://en.wikipedia.org/wiki/Postalveolar_ejective_affricate)",
-                null,
-                null,
                 null,
                 null,
                 null,
@@ -260,6 +260,8 @@
               ],
               [
                 "[Fricative](https://en.wikipedia.org/wiki/Fricative_consonant)",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
                 "([v](https://en.wikipedia.org/wiki/Voiced_labiodental_fricative))",
                 null,
                 "[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)",
@@ -268,8 +270,6 @@
                 "[ʒˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
                 "[ɣ](https://en.wikipedia.org/wiki/Voiced_velar_fricative)",
                 "[ɣ](https://en.wikipedia.org/wiki/Voiced_velar_fricative)",
-                null,
-                null,
                 null,
                 null,
                 null
@@ -292,12 +292,12 @@
               ],
               [
                 "[Rhotic](https://en.wikipedia.org/wiki/Rhotic_consonant)",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
+                "[voiced](https://en.wikipedia.org/wiki/Voice_(phonetics))",
                 null,
                 null,
                 "[r](https://en.wikipedia.org/wiki/Voiced_alveolar_trill)",
                 "[rˤ](https://en.wikipedia.org/wiki/Pharyngealization)",
-                null,
-                null,
                 null,
                 null,
                 null,
@@ -341,9 +341,9 @@
                 "[Back](https://en.wikipedia.org/wiki/Back_vowel)~ [Central](https://en.wikipedia.org/wiki/Central_vowel)"
               ],
               [
+                null,
                 "[unrounded](https://en.wikipedia.org/wiki/Unrounded_vowel)",
                 "[rounded](https://en.wikipedia.org/wiki/Rounded_vowel)",
-                null,
                 "[Back](https://en.wikipedia.org/wiki/Back_vowel)~ [Central](https://en.wikipedia.org/wiki/Central_vowel)"
               ],
               [
@@ -462,7 +462,8 @@
                 "Юь юь",
                 "Я я",
                 "Яь яь",
-                "Ӏ ӏ"
+                "Ӏ ӏ",
+                null
               ]
             ],
             "Lower-case [palochka](https://en.wikipedia.org/wiki/Palochka), ⟨ӏ⟩, is found in handwriting. Usually, palochka uppercase and lowercase forms [consistent](https://en.wikipedia.org/wiki/Cyrillic_script#Lowercase_forms) in print or upright, but only upper-case ⟨Ӏ⟩ is normally used in computers.[19]"
@@ -611,7 +612,7 @@
             "In 1910, Sugaip Gaisunov proposed additional reforms that brought Arabic alphabet closer to Chechen's phonetic requirements. Sugaip Gaisunov introduced four additional consonants:[22]",
             [
               "The letter ڥ‎, equivalent to Cyrillic letter \"Пӏ\" and representing the sound /pʼ/; This letter was later revised to ڢ‎",
-              "The letter ر࣮‎ (https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg), equivalent to Cyrillic letters \"Ц\" and \"Цӏ\" and representing the sounds /ts/ and /tsʼ/;",
+              "The letter ر࣮‎ (), equivalent to Cyrillic letters \"Ц\" and \"Цӏ\" and representing the sounds /ts/ and /tsʼ/;",
               "The letter چ‎, equivalent to Cyrillic letters \"Ч\" and \"Чӏ\", representing the sounds /tʃ/ and /t͡ʃʼ/;",
               "The letter گ‎, equivalent to Cyrillic letter \"Г\" and representing the sound /g/;"
             ],
@@ -619,7 +620,7 @@
             "In 1920, two Chechen literaturists, A. Tugaev and T. Eldarkhanov, published a document. In this document they proposed new modifications, which were the addition of two new consonants:[22]",
             [
               "The letter څ‎, equivalent to Cyrillic letter \"Чӏ\" and representing the sound /t͡ʃʼ/. This letter was later revised to ڃ‎, Thus the letter چ‎ was reduced to only representing the sound /tʃ/, equivalent to Cyrillic letter \"Ч\";",
-              "The letter ڗ‎, equivalent to Cyrillic letter \"Цӏ\" and representing the sound /tsʼ/; Thus the letter ر̤‎ (https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg) was reduced to only representing the sound /ts/, equivalent to Cyrillic letter \"Ц\";"
+              "The letter ڗ‎, equivalent to Cyrillic letter \"Цӏ\" and representing the sound /tsʼ/; Thus the letter ر̤‎ () was reduced to only representing the sound /ts/, equivalent to Cyrillic letter \"Ц\";"
             ],
             "These modifications by A. Tugaev and T. Eldarkhanov were a great final step in creating a modified Arabic script that represents Chechen consonants. However, the Arabic alphabet still was not suitable in representing Chechen vowel sounds. Arabic script itself uses [harakat](https://en.wikipedia.org/wiki/Arabic_diacritics), meaning that most but not all vowels are shown with diacritics, which are in most cases left unwritten. The process of transforming Arabic script into a full alphabet for use by a non-Arabic language has been a common occurrence, and has been done in [Uyghur](https://en.wikipedia.org/wiki/Uyghur_Arabic_alphabet), [Kazakh](https://en.wikipedia.org/wiki/Kazakh_alphabets), [Kurdish](https://en.wikipedia.org/wiki/Sorani_alphabet) and several more Arabic-derived scripts.",
             "Thus a final revision on Chechen Arabic script occurred, in which vowel sounds were standardized.",
@@ -697,7 +698,7 @@
               [
                 "Arabic (Cyrillic equivalent) [[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)]",
                 "ز‎ ‌(З з) [[z](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative)]/[[d͡z](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)]",
-                "ر̤‎ (https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg) ‌(Ц ц) [[t͡s](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)]",
+                "ر̤‎ () ‌(Ц ц) [[t͡s](https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate)]",
                 "ڗ‎ ‌(ЦӀ цӀ) [[t͡sʼ](https://en.wikipedia.org/wiki/Alveolar_ejective_affricate)]",
                 "س‎ ‌(С с) [[s](https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative)]",
                 "ش‎ ‌(Ш ш) [[ʃ](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative)]",
@@ -1006,7 +1007,7 @@
                 "Ц ц",
                 "C c",
                 "C c",
-                "ر̤ https://en.wikipedia.org/wiki/File:Reh_with_two_dots_below.svg",
+                "ر̤",
                 "/t͡s/"
               ],
               [
@@ -1245,8 +1246,8 @@
                 "*zuda* 'woman'",
                 "***y-***",
                 "***b-*/*d-***",
-                "*zudari **b-**eza **b-**u* 'the women are heavy'",
-                null
+                "*zuda **y**-eza **y**-u* 'the woman is heavy'",
+                "*zudari **b-**eza **b-**u* 'the women are heavy'"
               ],
               [
                 "3. y-class II",
@@ -1276,9 +1277,9 @@
                 "6. b-class II",
                 "*ˤaž* 'apple'",
                 "***b-***",
+                "***d-***",
                 "*ˤaž **b-**eza **b**-u* 'the apple is heavy'",
-                "*ˤežash **d-**eza **d-**u* 'the apples are heavy'",
-                null
+                "*ˤežash **d-**eza **d-**u* 'the apples are heavy'"
               ]
             ],
             "When a noun denotes a human being, it usually falls into v- or y-Classes (1 or 2). Most nouns referring to male entities fall into the v-class, whereas Class 2 contains words related to female entities. Thus *lūlaxuo* 'a neighbour' is normally considered class 1, but it takes *v-* if referring to a male neighbour and *y-* if a female. This is similar to the Spanish word *estudiante* 'student', where *el estudiante* refers to a male student, and *la estudiante* refers to a female student.[28]",

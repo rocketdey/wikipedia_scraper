@@ -202,12 +202,12 @@
               ],
               [
                 "1980",
+                "*Off the Minnesota Strip*",
                 "No",
                 "Yes",
                 "Yes",
                 "No",
-                "Television film",
-                null
+                "Television film"
               ],
               [
                 "1982",
@@ -220,12 +220,12 @@
               ],
               [
                 "1982",
+                "*Moonlight*",
                 "No",
                 "Yes",
                 "Executive",
                 "No",
-                "Television film",
-                null
+                "Television film"
               ],
               [
                 "1986",
@@ -274,29 +274,29 @@
               ],
               [
                 "1996",
+                "*The Rockford Files: Godfather Knows Best*",
                 "No",
                 "Yes",
                 "Supervising",
                 "No",
-                null,
                 "Television film"
               ],
               [
                 "1996",
+                "*The Rockford Files: Friends and Foul Play*",
                 "No",
                 "No",
                 "Supervising",
                 "No",
-                null,
                 "Television film"
               ],
               [
                 "1996",
+                "*The Rockford Files: Punishment and Crime*",
                 "Yes",
                 "Yes",
                 "Supervising",
                 "No",
-                null,
                 "Television film"
               ],
               [
@@ -415,23 +415,23 @@
           [
             "[1979](https://en.wikipedia.org/wiki/31st_Primetime_Emmy_Awards)",
             "[Outstanding Drama Series](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Drama_Series)",
+            "*[The Rockford Files](https://en.wikipedia.org/wiki/The_Rockford_Files)* ([season 5](https://en.wikipedia.org/wiki/The_Rockford_Files_season_5))",
             "Nominated",
-            "[55]",
-            null
+            "[55]"
           ],
           [
             "[1980](https://en.wikipedia.org/wiki/32nd_Primetime_Emmy_Awards)",
             "[Outstanding Drama Series](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Drama_Series)",
+            "*[The Rockford Files](https://en.wikipedia.org/wiki/The_Rockford_Files)* ([season 6](https://en.wikipedia.org/wiki/The_Rockford_Files_season_6))",
             "Nominated",
-            "[56]",
-            null
+            "[56]"
           ],
           [
             "[1980](https://en.wikipedia.org/wiki/32nd_Primetime_Emmy_Awards)",
+            "[Outstanding Writing in a Limited Series or a Special](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Limited_or_Anthology_Series_or_Movie)",
             "*Off The Minnesota Strip*",
             "Won",
-            "[56]",
-            null
+            "[56]"
           ],
           [
             "[1992](https://en.wikipedia.org/wiki/44th_Primetime_Emmy_Awards)",
@@ -442,9 +442,9 @@
           ],
           [
             "[1992](https://en.wikipedia.org/wiki/44th_Primetime_Emmy_Awards)",
+            "[Outstanding Writing for a Drama Series](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series)",
             "*[I'll Fly Away](https://en.wikipedia.org/wiki/I'll_Fly_Away_(TV_series))* (episode: \"Pilot\")",
             "Nominated",
-            null,
             "[57]"
           ],
           [
@@ -457,37 +457,37 @@
           [
             "[1994](https://en.wikipedia.org/wiki/46th_Primetime_Emmy_Awards)",
             "Outstanding Drama Series",
+            "*[Northern Exposure](https://en.wikipedia.org/wiki/Northern_Exposure)* ([season 5](https://en.wikipedia.org/wiki/List_of_Northern_Exposure_episodes#Season_5_(1993–94)))",
             "Nominated",
-            "[59]",
-            null
+            "[59]"
           ],
           [
             "[1999](https://en.wikipedia.org/wiki/51st_Primetime_Emmy_Awards)",
             "Outstanding Drama Series",
+            "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* ([season 1](https://en.wikipedia.org/wiki/The_Sopranos_season_1))",
             "Nominated",
-            "[60]",
-            null
+            "[60]"
           ],
           [
             "[1999](https://en.wikipedia.org/wiki/51st_Primetime_Emmy_Awards)",
+            "[Outstanding Writing for a Drama Series](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series)",
             "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[College](https://en.wikipedia.org/wiki/College_(The_Sopranos_episode))\")",
             "Won",
-            "[60]",
-            null
+            "[60]"
           ],
           [
             "[1999](https://en.wikipedia.org/wiki/51st_Primetime_Emmy_Awards)",
-            "Nominated",
-            null,
-            "[60]",
-            null
-          ],
-          [
-            "[1999](https://en.wikipedia.org/wiki/51st_Primetime_Emmy_Awards)",
+            "[Outstanding Writing for a Drama Series](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series)",
             "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[Pilot](https://en.wikipedia.org/wiki/Pilot_(The_Sopranos))\")",
             "Nominated",
-            "[60]",
-            null
+            "[60]"
+          ],
+          [
+            "[1999](https://en.wikipedia.org/wiki/51st_Primetime_Emmy_Awards)",
+            "[Outstanding Directing for a Drama Series](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series)",
+            "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[Pilot](https://en.wikipedia.org/wiki/Pilot_(The_Sopranos))\")",
+            "Nominated",
+            "[60]"
           ],
           [
             "[2000](https://en.wikipedia.org/wiki/52nd_Primetime_Emmy_Awards)",
@@ -499,23 +499,23 @@
           [
             "[2001](https://en.wikipedia.org/wiki/53rd_Primetime_Emmy_Awards)",
             "Outstanding Drama Series",
+            "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* ([season 3](https://en.wikipedia.org/wiki/The_Sopranos_season_3))",
             "Nominated",
-            "[62]",
-            null
+            "[62]"
           ],
           [
             "[2001](https://en.wikipedia.org/wiki/53rd_Primetime_Emmy_Awards)",
+            "Outstanding Writing for a Drama Series",
             "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[Funhouse](https://en.wikipedia.org/wiki/Funhouse_(The_Sopranos_episode))\")",
             "Nominated",
-            "[62]",
-            null
+            "[62]"
           ],
           [
             "[2001](https://en.wikipedia.org/wiki/53rd_Primetime_Emmy_Awards)",
+            "Outstanding Writing for a Drama Series",
+            "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[Amour Fou](https://en.wikipedia.org/wiki/Amour_Fou_(The_Sopranos))\")",
             "Nominated",
-            null,
-            "[62]",
-            null
+            "[62]"
           ],
           [
             "[2003](https://en.wikipedia.org/wiki/55th_Primetime_Emmy_Awards)",
@@ -526,9 +526,9 @@
           ],
           [
             "[2003](https://en.wikipedia.org/wiki/55th_Primetime_Emmy_Awards)",
+            "Outstanding Writing for a Drama Series",
             "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[Whitecaps](https://en.wikipedia.org/wiki/Whitecaps_(The_Sopranos_episode))\")",
             "Won",
-            null,
             "[63]"
           ],
           [
@@ -541,30 +541,30 @@
           [
             "[2006](https://en.wikipedia.org/wiki/58th_Primetime_Emmy_Awards)",
             "Outstanding Drama Series",
+            "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* ([season 6 - Part 1](https://en.wikipedia.org/wiki/The_Sopranos_season_6))",
             "Nominated",
-            "[65]",
-            null
+            "[65]"
           ],
           [
             "[2007](https://en.wikipedia.org/wiki/59th_Primetime_Emmy_Awards)",
             "Outstanding Drama Series",
+            "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* ([season 6 - Part 2](https://en.wikipedia.org/wiki/The_Sopranos_season_6))",
             "Won",
-            "[66]",
-            null
+            "[66]"
           ],
           [
             "[2007](https://en.wikipedia.org/wiki/59th_Primetime_Emmy_Awards)",
+            "Outstanding Writing for a Drama Series",
             "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[Kennedy and Heidi](https://en.wikipedia.org/wiki/Kennedy_and_Heidi)\")",
             "Nominated",
-            "[66]",
-            null
+            "[66]"
           ],
           [
             "[2007](https://en.wikipedia.org/wiki/59th_Primetime_Emmy_Awards)",
+            "Outstanding Writing for a Drama Series",
+            "*[The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)* (episode: \"[Made in America](https://en.wikipedia.org/wiki/Made_in_America_(The_Sopranos))\")",
             "Won",
-            null,
-            "[66]",
-            null
+            "[66]"
           ]
         ]
       ]
