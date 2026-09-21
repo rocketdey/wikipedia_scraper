@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://rubygems.org/gems/wikipedia_scraper">
+    <img src="https://img.shields.io/gem/v/wikipedia_scraper.svg" alt="Gem Version"></img></a>
+  <a href="https://rubygems.org/gems/wikipedia_scraper">
+    <img src="https://img.shields.io/gem/dt/wikipedia_scraper.svg" alt="Downloads"></img></a>
+  <img src="https://img.shields.io/github/license/rocketdey/wikipedia_scraper.svg" alt="License"></img>
+</p>
+
 # Wikipedia Scraper
 
 This library can be used for scraping Wikipedia articles into a structured JSON format.
